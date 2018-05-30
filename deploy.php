@@ -14,7 +14,6 @@ if ($_GET['key'] === 'bxn5XNWNEoHetCtJgjgUzJ2ocLYeWeeRpKOyw') {
     print_r($output);
 
     echo "</pre>";
-
 }
 
 ?>
