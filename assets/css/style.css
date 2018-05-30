@@ -25,8 +25,7 @@
 @font-face {
     font-family: 'caviar_dreams';
     src: url('../fonts/CaviarDreams-webfont.woff2') format('woff2'),
-    url('../fonts/CaviarDreams-webfont.woff') format('woff'),
-    url('../fonts/CaviarDreams-webfont.ttf') format('truetype');
+    url('../fonts/CaviarDreams-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -523,60 +522,6 @@ a:hover {
 }
 
 /* /////////////////////////////////////////////////////////////////////
-//  10 - Testimonial
-/////////////////////////////////////////////////////////////////////*/
-
-#testimonial {
-    background: url(../img/testi-bg.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-
-.review-star {
-    text-align: center;
-    color: rgb(255, 214, 0);
-    font-size: 30px;
-    padding-top: 20px;
-}
-
-.client-pic {
-    padding: 0em 2em;
-    max-width: 360px;
-    margin: 0 auto;
-}
-
-.client-pic img {
-    border-radius: 50%;
-}
-
-.review-desc {
-    font-size: 24px;
-    line-height: 1.8;
-    font-weight: 100;
-    font-style: italic;
-    padding-top: 20px;
-    color: #fff;
-}
-
-#testimonial .block-title {
-    color: #fff;
-}
-
-#testimonial .block-title span {
-    border-color: #fff;
-}
-
-p.client-name {
-    float: right;
-    font-size: 30px;
-    color: #fff;
-    display: inline-block;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
-    padding-bottom: 5px;
-}
-
-/* /////////////////////////////////////////////////////////////////////
 //  11 - Subscribe Section
 /////////////////////////////////////////////////////////////////////*/
 
@@ -800,7 +745,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 
 /*1340px - 1170px*/
 
-@media all and (max-width: 1340px) and (min-width: 1170px;) {
+@media all and (max-width: 1340px) and (min-width: 1170px) {
     .address-list li {
         font-size: 18px;
     }
@@ -907,6 +852,60 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 @media all and (max-width: 480px) {
     .btn-custom {
         padding: 5px 0px;
+    }
+
+    .problems-container {
+        flex-wrap: wrap;
+    }
+
+    .problem-item {
+        width: 100%;
+    }
+
+    #solveProblem {
+        padding: 40px 0;
+    }
+
+    #description {
+        padding: 40px 0;
+    }
+
+    .block-title {
+        font-size: 2em;
+        line-height: 1.5em;
+    }
+
+    .black-text-container {
+        max-width: 94%;
+    }
+
+    .block {
+        padding: 40px 0 40px 0;
+    }
+
+    .default-video {
+        border: 15px solid rgba(0, 0, 0, .4);
+        width: 94%;
+    }
+
+    .faq-container {
+        width: 94%;
+    }
+
+    .social-timelines {
+        flex-direction: column;
+    }
+
+    .twitter-container {
+        width: 100%;
+    }
+
+    .facebook-container {
+        width: 100%;
+    }
+
+    .team-member-row {
+        flex-direction: column;
     }
 }
 
