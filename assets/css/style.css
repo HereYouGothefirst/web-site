@@ -1,25 +1,5 @@
-/**
-* Table of Contents:
-*
-* 01.0 - Custom Fonts
-* 02.0 - Global
-* 03.0 - Side Menu
-* 04.0 - Preloader
-* 05.0 - Header
-* 06.0 - Banner
-* 07.0 - Features
-* 08.0 - Gallery
-* 09.0 - Team Member
-* 10.0 - Testimonial
-* 11.0 - Subscribe
-* 12.0 - Contact us
-* 13.0 - Footer
-* 14.0 - Responsive Fixes
-* -----------------------------------------------------------------------------
-*/
-
 /* /////////////////////////////////////////////////////////////////////
-//  01 - Custom Fonts 
+//  Custom Fonts
 /////////////////////////////////////////////////////////////////////*/
 
 @font-face {
@@ -32,7 +12,7 @@
 }
 
 /* ///////////////////////////////////////////////////////////////////// 
-//  02 - Global 
+//  Global
 /////////////////////////////////////////////////////////////////////*/
 
 * {
@@ -739,176 +719,6 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     margin-bottom: -15px;
 }
 
-/* ///////////////////////////////////////////////////////////////////// 
-//  14 - Responsive Fixes
-/////////////////////////////////////////////////////////////////////*/
-
-/*1340px - 1170px*/
-
-@media all and (max-width: 1340px) and (min-width: 1170px) {
-    .address-list li {
-        font-size: 18px;
-    }
-
-    .address-list li i {
-        width: 60px;
-        height: 60px;
-        font-size: 34px;
-
-    }
-}
-
-/*1170px - 992px*/
-
-@media all and (max-width: 1170px) and (min-width: 992px) {
-    .address {
-        width: 100%;
-    }
-
-    .mailbox {
-        width: 100%;
-    }
-
-    .address-list {
-        padding: 200px 0px 70px 0px;
-        width: 100%;
-        max-width: 100%;
-    }
-
-    .address {
-        height: 340px;
-    }
-
-    .mailbox .container {
-        margin-top: 100px;
-        height: auto;
-    }
-
-    .address-list {
-        padding: 200px 0px 70px 0px;
-        width: 100%;
-        max-width: 100%;
-    }
-
-    .address-list li {
-        font-size: 16px;
-        padding: 1em;
-        display: inline-block;
-    }
-
-    .address-list li i {
-        display: table-cell;
-        line-height: 42px;
-        width: 42px;
-        height: 40px;
-        font-size: 18px;
-    }
-}
-
-/*1170px*/
-
-@media all and (max-width: 1170px) {
-    .address {
-        width: 100%;
-    }
-
-    .mailbox {
-        width: 100%;
-    }
-
-    .mailbox {
-        padding-bottom: 111px;
-        height: auto;
-    }
-
-    .mailbox .container {
-        margin-top: 130px;
-        margin-bottom: 0px;
-    }
-}
-
-/*992px*/
-
-@media all and (max-width: 992px) {
-    .headings h1, .headings p {
-        text-align: center;
-    }
-
-    .block-title {
-        font-size: 2.8em;
-    }
-}
-
-/*768px*/
-
-@media all and (max-width: 768px) {
-    #footer, .copyright {
-        text-align: center;
-    }
-}
-
-/*480px*/
-
-@media all and (max-width: 480px) {
-    .btn-custom {
-        padding: 5px 0px;
-    }
-
-    .problems-container {
-        flex-wrap: wrap;
-    }
-
-    .problem-item {
-        width: 100%;
-    }
-
-    #solveProblem {
-        padding: 40px 0;
-    }
-
-    #description {
-        padding: 40px 0;
-    }
-
-    .block-title {
-        font-size: 2em;
-        line-height: 1.5em;
-    }
-
-    .black-text-container {
-        max-width: 94%;
-    }
-
-    .block {
-        padding: 40px 0 40px 0;
-    }
-
-    .default-video {
-        border: 15px solid rgba(0, 0, 0, .4);
-        width: 94%;
-    }
-
-    .faq-container {
-        width: 94%;
-    }
-
-    .social-timelines {
-        flex-direction: column;
-    }
-
-    .twitter-container {
-        width: 100%;
-    }
-
-    .facebook-container {
-        width: 100%;
-    }
-
-    .team-member-row {
-        flex-direction: column;
-    }
-}
-
 /* /////////////////////////////////////////////////////////////////////
 //  15 - other
 /////////////////////////////////////////////////////////////////////*/
@@ -1120,4 +930,175 @@ p.team-position {
 .pie-chart-image {
     width: 73%;
     margin-top: 24px;
+}
+
+
+/* /////////////////////////////////////////////////////////////////////
+//  Responsive Fixes
+/////////////////////////////////////////////////////////////////////*/
+
+/*1340px - 1170px*/
+
+@media all and (max-width: 1340px) and (min-width: 1170px) {
+    .address-list li {
+        font-size: 18px;
+    }
+
+    .address-list li i {
+        width: 60px;
+        height: 60px;
+        font-size: 34px;
+
+    }
+}
+
+/*1170px - 992px*/
+
+@media all and (max-width: 1170px) and (min-width: 992px) {
+    .address {
+        width: 100%;
+    }
+
+    .mailbox {
+        width: 100%;
+    }
+
+    .address-list {
+        padding: 200px 0px 70px 0px;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .address {
+        height: 340px;
+    }
+
+    .mailbox .container {
+        margin-top: 100px;
+        height: auto;
+    }
+
+    .address-list {
+        padding: 200px 0px 70px 0px;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .address-list li {
+        font-size: 16px;
+        padding: 1em;
+        display: inline-block;
+    }
+
+    .address-list li i {
+        display: table-cell;
+        line-height: 42px;
+        width: 42px;
+        height: 40px;
+        font-size: 18px;
+    }
+}
+
+/*1170px*/
+
+@media all and (max-width: 1170px) {
+    .address {
+        width: 100%;
+    }
+
+    .mailbox {
+        width: 100%;
+    }
+
+    .mailbox {
+        padding-bottom: 111px;
+        height: auto;
+    }
+
+    .mailbox .container {
+        margin-top: 130px;
+        margin-bottom: 0px;
+    }
+}
+
+/*992px*/
+
+@media all and (max-width: 992px) {
+    .headings h1, .headings p {
+        text-align: center;
+    }
+
+    .block-title {
+        font-size: 2.8em;
+    }
+}
+
+/*768px*/
+
+@media all and (max-width: 768px) {
+    #footer, .copyright {
+        text-align: center;
+    }
+}
+
+/*480px*/
+
+@media all and (max-width: 480px) {
+    .btn-custom {
+        padding: 5px 0px;
+    }
+
+    .problems-container {
+        flex-wrap: wrap;
+    }
+
+    .problem-item {
+        width: 100%;
+    }
+
+    #solveProblem {
+        padding: 40px 0;
+    }
+
+    #description {
+        padding: 40px 0;
+    }
+
+    .block-title {
+        font-size: 2em;
+        line-height: 1.5em;
+    }
+
+    .black-text-container {
+        max-width: 94%;
+    }
+
+    .block {
+        padding: 40px 0 40px 0;
+    }
+
+    .default-video {
+        border: 15px solid rgba(0, 0, 0, .4);
+        width: 94%;
+    }
+
+    .faq-container {
+        width: 94%;
+    }
+
+    .social-timelines {
+        flex-direction: column;
+    }
+
+    .twitter-container {
+        width: 100%;
+    }
+
+    .facebook-container {
+        width: 100%;
+    }
+
+    .team-member-row {
+        flex-direction: column;
+    }
 }
