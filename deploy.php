@@ -1,8 +1,18 @@
 <?php
 
 if ($_GET['key'] === 'bxn5XNWNEoHetCtJgjgUzJ2ocLYeWeeRpKOyw') {
-    exec('git reset --hard HEAD');
-    exec('git pull origin master');
+    $output = '';
+
+    echo "<pre>";
+
+    exec('git reset --hard HEAD', $output);
+    print_r($output);
+
+    exec('git pull origin master', $output);
+    print_r($output);
+
+    echo "</pre>";
+
 }
 
 ?>
