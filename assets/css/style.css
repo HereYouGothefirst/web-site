@@ -288,6 +288,7 @@ a:hover {
     color: #fff;
     font-size: 2.5em;
     line-height: 1.6;
+
 }
 
 #logo_menu {
@@ -913,16 +914,26 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 //  15 - other
 /////////////////////////////////////////////////////////////////////*/
 
+
 .logo-image {
-    height: 50px;
+    height: 110px;
+    width: 130px;
     margin-top: 26px;
+    display: block;
+    transition: all 0.5s;
+    background: url(/assets/img/logo.png) center no-repeat;
+    background-size: contain;
     transition: all 0.5s;
 }
 
+
 .fixed .logo-image {
-    height: 25px;
+    height: 50px;
     margin-top: 0;
+    background: url(/assets/img/logo-fixed.png) left center no-repeat;
+    background-size: contain;
 }
+
 
 .disabled {
     pointer-events: none;
