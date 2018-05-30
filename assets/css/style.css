@@ -1101,4 +1101,17 @@ p.team-position {
     .team-member-row {
         flex-direction: column;
     }
+
+    .team-member {
+        margin: 0 10px 20px;
+    }
+
+    .team-social {
+        padding: 0 0 8px;
+    }
+
+    .team-member p {
+        padding: 10px 10px 0px 10px;
+    }
 }
+
