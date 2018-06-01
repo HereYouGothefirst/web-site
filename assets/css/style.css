@@ -727,7 +727,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 .logo-image {
     height: 110px;
     width: 130px;
-    margin-top: 26px;
+    margin-top: 0px;
     display: block;
     transition: all 0.5s;
     background: url(/assets/img/logo.png) center no-repeat;
@@ -932,6 +932,22 @@ p.team-position {
     margin-top: 24px;
 }
 
+.header-links {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+a.header-link {
+    color: white;
+    padding: 0 40px;
+    font-size: 16px;
+}
+
+a.header-link:hover {
+    text-decoration: underline;
+}
+
 
 /* /////////////////////////////////////////////////////////////////////
 //  Responsive Fixes
@@ -1114,5 +1130,7 @@ p.team-position {
     .team-member p {
         padding: 10px 10px 0px 10px;
     }
+
+
 }
 
