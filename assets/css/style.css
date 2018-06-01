@@ -948,6 +948,12 @@ a.header-link:hover {
     text-decoration: underline;
 }
 
+.wp-icon {
+    font-size: 20px;
+    position: relative;
+    top: 1px;
+}
+
 
 /* /////////////////////////////////////////////////////////////////////
 //  Responsive Fixes
