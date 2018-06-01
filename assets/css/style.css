@@ -1083,7 +1083,7 @@ p.team-position {
     }
 
     .faq-container {
-        width: 94%;
+        max-width: 94%;
     }
 
     .social-timelines {
@@ -1092,6 +1092,7 @@ p.team-position {
 
     .twitter-container {
         width: 100%;
+        margin-bottom: 40px;
     }
 
     .facebook-container {
