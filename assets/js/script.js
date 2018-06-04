@@ -57,24 +57,30 @@ $(function () {
 
 $(document).ready(function () {
 
-    var owl = $("#partnerLinks");
-
-    owl.owlCarousel({
+    var carouselConfig = {
         autoPlay: false,
         pagination: false,
         stopOnHover: true,
         slideBy: 1,
         items: 4,
         loop: true
-    });
+    };
+
+    var owl = $("#partnerLinks");
+
+    owl.owlCarousel(carouselConfig);
 
     // Custom Navigation Events
     $(".next").click(function () {
         owl.trigger('owl.next');
-    })
+    });
+
     $(".prev").click(function () {
         owl.trigger('owl.prev');
-    })
+    });
+
+    //var advisers = $('.team-member-row--advisers');
+    //advisers.owlCarousel(carouselConfig);
 
 });
 

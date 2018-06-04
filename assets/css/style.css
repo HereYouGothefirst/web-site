@@ -802,6 +802,11 @@ p.team-position {
     margin: 0 auto;
     background-size: cover;
     background-position: center;
+    box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+}
+
+.team-member--adviser .team-pic {
+    border-radius: 50%;
 }
 
 .problems-container {
@@ -834,6 +839,10 @@ p.team-position {
 
 #team {
     background: #f9f9f9;
+}
+
+#advisers {
+    background: #f6f6f6;
 }
 
 #partners {
@@ -1148,5 +1157,13 @@ a.header-link:hover {
     }
 
 
+    .headings h1 {
+        font-size: 26px;
+    }
+
+    .logo-image {
+        height: 70px;
+        width: 80px;
+    }
 }
 
