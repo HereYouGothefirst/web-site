@@ -67,8 +67,12 @@ $(document).ready(function () {
     };
 
     var owl = $("#partnerLinks");
+    var owlBB = $("#backedByLinks");
 
     owl.owlCarousel(carouselConfig);
+
+    carouselConfig.items = 3;
+    owlBB.owlCarousel(carouselConfig);
 
     // Custom Navigation Events
     $(".next").click(function () {
