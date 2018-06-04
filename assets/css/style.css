@@ -238,6 +238,7 @@ a:hover {
     height: 100%;
     overflow: visible;
     background: #fff url('../img/preloader.webp') no-repeat center center;
+    background-size: 88px;
 }
 
 /* ///////////////////////////////////////////////////////////////////// 
