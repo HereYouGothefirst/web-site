@@ -501,6 +501,16 @@ a:hover {
     background-color: #444;
 }
 
+.instagram a i {
+    color: #444;
+    border-color: #444;
+}
+
+.instagram a i:hover {
+    color: #fff;
+    background-color: #444;
+}
+
 /* /////////////////////////////////////////////////////////////////////
 //  11 - Subscribe Section
 /////////////////////////////////////////////////////////////////////*/
