@@ -850,6 +850,10 @@ p.team-position {
     background: #f6f6f6;
 }
 
+#backedByLinks .owl-item img {
+    max-height: 95px;
+}
+
 #partners {
     background: #f9f9f9;
 }
@@ -978,6 +982,10 @@ a.header-link:hover {
     top: 1px;
 }
 
+
+.sidebar-nav-link--email {
+    display: none;
+}
 
 /* /////////////////////////////////////////////////////////////////////
 //  Responsive Fixes
@@ -1169,6 +1177,12 @@ a.header-link:hover {
     .logo-image {
         height: 70px;
         width: 80px;
+    }
+
+    .header-link--email {display: none;}
+
+    .sidebar-nav-link--email {
+        display: block
     }
 }
 
