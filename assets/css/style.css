@@ -304,6 +304,7 @@ a:hover {
     background: url(../img/bg.jpg) fixed;
     background-size: cover;
     position: relative;
+    padding: 68px 0;
 }
 
 .headings {
@@ -759,7 +760,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 .row-v-centered {
     display: flex;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .black-text-container {
@@ -982,6 +983,10 @@ a.header-link:hover {
 
 .sidebar-nav-link--email {
     display: none;
+}
+
+.headings p.text-bold {
+    font-weight: 600;
 }
 
 /* /////////////////////////////////////////////////////////////////////

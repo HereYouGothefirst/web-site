@@ -1,5 +1,4 @@
-
-<?php require_once('inc/header.php')?>
+<?php require_once('inc/header.php') ?>
 
 <!-- ****************************** Sidebar ************************** -->
 
@@ -52,33 +51,36 @@
 <section id="banner">
     <section class="container">
         <a class="slidedown wow animated zoomIn page-link" data-wow-delay="2s" href="#solveProblem"><i
-                class="ion-ios-download-outline"></i></a>
+                    class="ion-ios-download-outline"></i></a>
         <section class="row row-v-centered">
             <div class="col-md-7">
                 <div class="headings">
                     <h1 class="wow animated fadeInDown">
-                        SAFE AND COMFORTABLE TRANSPORTATION FOR EVERYONE - EASY!
+                        SAFE AND COMFORTABLE TRANSPORTATION FOR EVERYONE – HERE YOU GO!
                     </h1>
                     <p class="wow animated fadeInLeft">
-                        HereYouGo is a finance transactions platform for public transportation by self-driving cars. It
-                        provides taxi service with autonomous vehicles on decentralized blockchain by connecting car
-                        owners with their clients. In simple words: we operate your car when you don't use it.
+                        HereYouGo is a finance transactions platform for public transportation with self-driving cars.
+                        It provides taxi service with autonomous vehicles on decentralized blockchain platform by
+                        connecting car owners with their clients.
+                    </p>
+                    <p class="wow animated fadeInLeft">
+                        In simple words: we operate your car when you don't use it.
                     </p>
 
-                    <p class="wow animated fadeInLeft">
+                    <p class="wow animated fadeInLeft text-bold">
                         New level of sharing economy for better world.
                     </p>
                     <div class="row">
                         <div class="col-xs-6 col-sm-6 col-md-5">
                             <div>
                                 <a href="#" class="polo-btn store wow animated bounceInUp disabled"><i
-                                        class="ion-social-android"></i> Play Store</a>
+                                            class="ion-social-android"></i> Play Store</a>
                             </div>
                         </div>
                         <div class="col-xs-6 col-sm-6 col-md-5">
                             <div>
                                 <a href="#" class="polo-btn store wow animated bounceInUp disabled"><i
-                                        class="ion-social-apple"></i> App Store</a>
+                                            class="ion-social-apple"></i> App Store</a>
                             </div>
                         </div>
                     </div>
@@ -114,40 +116,22 @@
                     <div class="problem-item">
                         <h2>1. Safety</h2>
                         <p class="default-text">
-                            Experts forecast that once autonomous technology has been fully developed, traffic
-                            collisions
-                            (and
-                            resulting deaths and injuries and costs), caused by human mistakes, such as delayed reaction
-                            time,
-                            tailgating, rubbernecking, and other forms of distracted or aggressive driving should be
-                            significantly reduced.
+                            Experts forecast that once autonomous technology will have been fully developed, traffic collisions (and resulting deaths and injuries) caused by human mistakes, such as delayed reaction time, messaging while driving and other forms of destructive driving will be significantly reduced .
                         </p>
 
                     </div>
                     <div class="problem-item">
                         <h2>2. Price</h2>
                         <p class="default-text">
-                            Self-driving cars could decrease labor costs, relieve travelers from driving and navigation
-                            chores,
-                            replacing commuting hours with more time for fun or work, and also would lift constraints on
-                            occupant ability to drive, distracted and texting while driving, intoxicated, prone to
-                            seizures,
-                            or
-                            otherwise impaired.
+                            Taxi costs for users will drop significantly, because there will be no driver's salary in the cost structure. Moreover, the trip routing will be much more effective, because the system will take into account all available data to shorten the route and exclude the risk of human mistake.
+
                         </p>
                     </div>
 
                     <div class="problem-item">
                         <h2>3. Comfort</h2>
                         <p class="default-text">
-                            This is our favourite: when you alone in the car you can do anything you want: sing, work,
-                            study.
-                            Moreover, the elimination of the steering wheel—along with the remaining driver interface
-                            and
-                            the
-                            requirement for any occupant to assume a forward-facing position—would give the interior of
-                            the
-                            cabin greater ergonomic versatility.
+                            Now when you are alone in the car you can do whatever you want: to work, to sing, to do yoga.   No more stress connecting with driving and navigation while you commute – leave the driving job to the new technologies! Choose the speed of driving and don't worry, because the system can not be sleepy, drunk or aggressive.
                         </p>
                     </div>
                 </div>
@@ -359,7 +343,7 @@
                 <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">CEO & Founder</p>
 
                 <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                    Draper Univercity, New Economic Scool
+                    Draper University, New Economic School
                     <br/>ex. TakeBus, Projector Group
                 </p>
 
@@ -533,12 +517,12 @@
     <section class="container">
         <section class="row">
             <div class="title-box"><h1 class="block-title wow animated rollIn">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                benefits
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-            </h1></div>
+                    <span class="bb-top-left"></span>
+                    <span class="bb-bottom-left"></span>
+                    benefits
+                    <span class="bb-top-right"></span>
+                    <span class="bb-bottom-right"></span>
+                </h1></div>
         </section>
 
         <section class="row">
@@ -603,12 +587,12 @@
     <section class="container">
         <section class="row">
             <div class="title-box"><h1 class="block-title wow animated rollIn">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                Featured partners
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-            </h1></div>
+                    <span class="bb-top-left"></span>
+                    <span class="bb-bottom-left"></span>
+                    Featured partners
+                    <span class="bb-top-right"></span>
+                    <span class="bb-bottom-right"></span>
+                </h1></div>
         </section>
         <p class="default-text text-center">
             If you are interested in becoming a partner, please feel free to write us.
@@ -617,17 +601,17 @@
             <div class="col-xs-12">
                 <div id="partnerLinks" class="owl-carousel owl-theme">
                     <a href="https://www.webgazer.io/" target="_blank" class="item"><img
-                            src="assets/img/partners/web-gazer.svg" class="wow animated zoomIn"></a>
+                                src="assets/img/partners/web-gazer.svg" class="wow animated zoomIn"></a>
                     <a href="http://starfeed.tv/" target="_blank" class="item"><img
-                            src="assets/img/partners/starfeed.png" class="wow animated zoomIn"></a>
+                                src="assets/img/partners/starfeed.png" class="wow animated zoomIn"></a>
                     <a href="http://geoloc.online/" target="_blank" class="item"><img
-                            src="assets/img/partners/geoloc.png" class="wow animated zoomIn"></a>
+                                src="assets/img/partners/geoloc.png" class="wow animated zoomIn"></a>
                     <a href="https://hotlead.io/en/main/" target="_blank" class="item"><img
-                            src="assets/img/partners/hot-lead.svg" class="wow animated zoomIn"></a>
+                                src="assets/img/partners/hot-lead.svg" class="wow animated zoomIn"></a>
                     <a href="http://seyis.co/" target="_blank" class="item"><img src="assets/img/partners/seyisco.png"
                                                                                  class="wow animated zoomIn"></a>
                     <a href="http://eczo.bike/crowdfunding" target="_blank" class="item"><img
-                            src="assets/img/partners/eczo-bike.png" class="wow animated zoomIn"></a>
+                                src="assets/img/partners/eczo-bike.png" class="wow animated zoomIn"></a>
 
                 </div>
                 <div class="customNavigation">
@@ -643,22 +627,22 @@
     <section class="container">
         <section class="row">
             <div class="title-box"><h1 class="block-title wow animated rollIn">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                The company backed by:
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-            </h1></div>
+                    <span class="bb-top-left"></span>
+                    <span class="bb-bottom-left"></span>
+                    The company backed by:
+                    <span class="bb-top-right"></span>
+                    <span class="bb-bottom-right"></span>
+                </h1></div>
         </section>
         <section class="row">
             <div class="col-xs-12">
                 <div id="backedByLinks" class="owl-carousel owl-theme">
                     <a href="https://www.draperuniversity.com/" target="_blank" class="item"><img
-                            src="assets/img/backed-by/drapper-university.png" class="wow animated zoomIn"></a>
+                                src="assets/img/backed-by/drapper-university.png" class="wow animated zoomIn"></a>
                     <a href="http://www.evesv.com" target="_blank" class="item"><img
-                            src="assets/img/backed-by/eve.png" class="wow animated zoomIn"></a>
+                                src="assets/img/backed-by/eve.png" class="wow animated zoomIn"></a>
                     <a href="http://deepracing.com/" target="_blank" class="item"><img
-                            src="assets/img/backed-by/deep-racing.png" class="wow animated zoomIn"></a>
+                                src="assets/img/backed-by/deep-racing.png" class="wow animated zoomIn"></a>
 
                 </div>
             </div>
@@ -670,12 +654,12 @@
     <section class="container">
         <section class="row">
             <div class="title-box"><h1 class="block-title wow animated rollIn">
-                <span class="bb-top-left"></span>
-                <span class="bb-bottom-left"></span>
-                faq
-                <span class="bb-top-right"></span>
-                <span class="bb-bottom-right"></span>
-            </h1></div>
+                    <span class="bb-top-left"></span>
+                    <span class="bb-bottom-left"></span>
+                    faq
+                    <span class="bb-top-right"></span>
+                    <span class="bb-bottom-right"></span>
+                </h1></div>
         </section>
 
         <div class="faq-container">
@@ -931,18 +915,18 @@
                 <ul class="team-social social-links">
                     <li class="wow animated fadeInLeft"><a href="https://www.facebook.com/hereyougothefirst"
                                                            target="_blank"><i
-                            class="ion-social-facebook"></i></a></li>
+                                    class="ion-social-facebook"></i></a></li>
                     <li class="wow animated fadeInLeft"><a href="https://twitter.com/AutoGoTech" target="_blank"><i
-                            class="ion-social-twitter"></i></a></li>
+                                    class="ion-social-twitter"></i></a></li>
                     <li class="wow animated fadeInRight"><a
-                            href="https://www.youtube.com/channel/UCvcC23IJ1YQX3re_VHeeVvQ " target="_blank"><i
-                            class="ion-social-youtube"></i></a></li>
+                                href="https://www.youtube.com/channel/UCvcC23IJ1YQX3re_VHeeVvQ " target="_blank"><i
+                                    class="ion-social-youtube"></i></a></li>
                     <li class="wow animated fadeInRight"><a href="https://www.linkedin.com/company/hereyougothefirst/"
                                                             target="_blank"><i class="ion-social-linkedin"></i></a></li>
                     <li class="wow animated fadeInRight"><a href="https://t.me/joinchat/BnYBHRAHsd7W1991EguPoA"
                                                             target="_blank"><i class="ion-paper-airplane"></i></a></li>
                     <li class="wow animated fadeInRight"><a href="https://www.tumblr.com/" target="_blank"><i
-                            class="ion-social-tumblr"></i></a>
+                                    class="ion-social-tumblr"></i></a>
                     </li>
                 </ul>
             </div>

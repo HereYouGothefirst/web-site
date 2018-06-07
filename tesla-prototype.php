@@ -138,15 +138,15 @@
         <div class="row">
             <div class="col-xs-10 col-xs-offset-1">
                 <label>E-mail</label>
-                <input type="email" class="form-control" placeholder="Enter email">
+                <input type="email" class="form-control" placeholder="name@mycompany.com">
             </div>
             <div class="col-xs-10 col-xs-offset-1">
                 <label>Name</label>
-                <input type="email" class="form-control" placeholder="Enter email">
+                <input type="email" class="form-control" placeholder="John Smith">
             </div>
             <div class="col-xs-10 col-xs-offset-1">
                 <label>Phone</label>
-                <input type="email" class="form-control" placeholder="Enter email">
+                <input type="email" class="form-control" placeholder="+1234 900 0000">
             </div>
             <div class="col-xs-10 col-xs-offset-1 text-center">
                 <button class="btn btn-primary btn-lg send-button">Send</button>
