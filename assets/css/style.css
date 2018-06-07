@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, a, li {
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -301,15 +301,12 @@ a:hover {
 /////////////////////////////////////////////////////////////////////*/
 
 #banner {
-    background: url(../img/bg.jpg);
+    background: url(../img/bg.jpg) fixed;
     background-size: cover;
-    padding-top: 80px;
-    background-attachment: fixed;
     position: relative;
 }
 
 .headings {
-    padding: 25% 0 30% 0;
     color: #fff;
 }
 
@@ -348,10 +345,11 @@ a:hover {
     font-size: 50px;
     color: #fff;
     position: absolute;
-    bottom: 0%;
+    bottom: 0;
     left: 50%;
     z-index: 99;
     cursor: pointer;
+    margin-left: -40px;
 }
 
 /* ///////////////////////////////////////////////////////////////////// 
@@ -517,10 +515,8 @@ a:hover {
 /////////////////////////////////////////////////////////////////////*/
 
 #subscribe {
-    background: url(../img/subs-bg.jpg);
-    padding: 100px 0px;
-    background-repeat: no-repeat;
-    background-size: cover;
+    padding: 100px 0;
+    background: url(../img/subs-bg.jpg) no-repeat left bottom;
 }
 
 .susbcribe-text {
@@ -763,6 +759,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 .row-v-centered {
     display: flex;
     align-items: center;
+    height: 100vh;
 }
 
 .black-text-container {
@@ -1166,7 +1163,7 @@ a.header-link:hover {
     }
 
     .team-member p {
-        padding: 10px 10px 0px 10px;
+        padding: 10px 10px 0 10px;
     }
 
 
@@ -1186,3 +1183,99 @@ a.header-link:hover {
     }
 }
 
+/* tesla page */
+
+.tesla-block--main {
+    background: url(../img/tesla-page/t3--bg.jpg) center 40%;
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+}
+
+.tesla-block--main h1 {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.tesla-block--main p {
+    font-size: 24px;
+}
+
+.want-to-join-button {
+    padding: 20px 40px;
+    border-radius: 40px;
+    margin-top: 30px;
+}
+
+.heading-description {
+    font-size: 28px;
+    font-weight: 200;
+    margin-bottom: 70px;
+}
+
+.tesla-block--idea {
+    padding: 80px 0;
+}
+
+
+.idea-text {
+    font-size: 19px;
+    font-weight: 300;
+    margin-bottom:  30px;
+    margin-top: 0;
+    padding-right: 36px;
+}
+.image-label {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.tesla-block--details {
+    background: url(../img/tesla-page/t1.jpg) center no-repeat fixed;
+    background-size: cover;
+    padding: 80px 0;
+}
+
+.details-list {
+    line-height: 26px;
+}
+
+.details-list li {
+    margin-bottom: 20px;
+    font-weight:300;
+    font-size: 18px;
+}
+
+.accelerate-form input.form-control {
+    border: 1px solid #333;
+    border-radius: 0;
+    margin-bottom:  15px;
+    font-size: 20px;
+    padding: 26px 15px;
+    display: block;
+    font-weight: 300;
+    font-family: 'Roboto';
+}
+
+.accelerate-form label {
+    font-weight: 400;
+    margin: 0;
+}
+
+.form-description {
+    margin-top: 20px;
+}
+
+.send-button {
+    border-radius: 26px;
+    padding: 10px 40px;
+    margin-top: 10px;
+}
+
+.tesla-block--offer {
+    background: url(../img/tesla-page/businessman.png) right bottom no-repeat;
+    background-color: #fafafa;
+    padding: 80px 0;
+}
