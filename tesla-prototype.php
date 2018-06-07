@@ -230,5 +230,5 @@
 
 
 <script>
-    $('title').text('Prototype with Tesla');
+    $('title').text('HereYouGo - Prototype with Tesla');
 </script>
