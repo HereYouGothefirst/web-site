@@ -989,6 +989,25 @@ a.header-link:hover {
     font-weight: 600;
 }
 
+a.banner-tesla {
+    display: block;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+    font-weight: 100;
+    color: white;
+    background: #283539;
+    position: fixed;
+    bottom: 0;
+    z-index: 100;
+    left: 0;
+    width: 103%;
+}
+
+a.banner-tesla:hover {
+    text-decoration: underline;
+}
+
 /* /////////////////////////////////////////////////////////////////////
 //  Responsive Fixes
 /////////////////////////////////////////////////////////////////////*/

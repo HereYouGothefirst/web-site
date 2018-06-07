@@ -20,7 +20,9 @@
         <li><a href="#faq" class="faq">faq</a></li>
     </ul>
 </nav>
-
+<a href="/tesla-prototype.php" class="banner-tesla">
+    Prototype with Tesla
+</a>
 <!-- ****************************** Header ************************** -->
 
 <header class="sticky" id="header">
