@@ -1,7 +1,52 @@
 <?php require_once('inc/header.php') ?>
 
+
+<script>
+    // Load the IFrame Player API code asynchronously.
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/player_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+    // Replace the 'ytplayer' element with an <iframe> and
+    // YouTube player after the API code downloads.
+    var player;
+    function onYouTubePlayerAPIReady() {
+        player = new YT.Player('ytplayer', {
+            height: '100%',
+            width: '100%',
+            videoId: 'jWreyC2l-dw',
+            playerVars: {
+                controls: 0,
+                enablejsapi: 1,
+                origin: 'https://hereyougo.io/',
+                rel: 0
+            },
+            events: {
+                'onReady': onPlayerReady,
+                'onStateChange': onPlayerStateChange
+            }
+        });
+    }
+
+    function onPlayerStateChange(e, d,f) {
+        player.playVideo();
+    }
+
+    function onPlayerReady() {
+        player.playVideo();
+        player.mute();
+    }
+
+</script>
+
 <section class="tesla-block tesla-block--main">
-    <div class="container">
+
+    <div class="video-background">
+        <div id="ytplayer"></div>
+    </div>
+
+    <div class="container container--top-layer">
         <a class="slidedown wow animated zoomIn page-link" data-wow-delay="2s" href="#idea"><i
                 class="ion-ios-download-outline"></i></a>
         <div class="row row-v-centered">
@@ -23,7 +68,6 @@
         </div>
     </div>
 </section>
-
 
 <section id="idea" class="tesla-block tesla-block--idea">
     <div class="container">
