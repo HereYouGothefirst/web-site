@@ -127,3 +127,39 @@ $(window).scroll(function () {
 //   });
 
 // });
+
+
+// carousel
+
+$(document).ready(function () {
+    $('#accelerateForm').submit(sendEmail);
+});
+
+function sendEmail() {
+    $('.message-warning').fadeOut();
+    $('.accelerate-form').addClass('accelerate-form--loading');
+
+    $.ajax({
+        type: "POST",
+        url: "sendEmail.php",
+        data: $('#accelerateForm').serialize(),
+        success: function (msg) {
+            if (msg == 'OK') {
+                $('.message-success').fadeIn();
+                $('#accelerateForm').fadeOut();
+            }
+            else {
+                $('.message-warning').html(msg);
+                $('.message-warning').fadeIn();
+                $('.accelerate-form').removeClass('accelerate-form--loading');
+            }
+        },
+        error: function(msg) {
+            $('.message-warning').html(msg);
+            $('.message-warning').fadeIn();
+            $('.accelerate-form').removeClass('accelerate-form--loading');
+        }
+    });
+
+    return false;
+}

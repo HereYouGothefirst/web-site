@@ -19,7 +19,7 @@
             playerVars: {
                 controls: 0,
                 enablejsapi: 1,
-                origin: 'https://hereyougo.io/',
+                origin: 'https://hereyougo.io',
                 rel: 0
             },
             events: {
@@ -74,7 +74,7 @@
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <p class="heading-description">The idea behind is to create first diversified ownership taxi service in
-                    Silicone
+                    Silicon
                     Valley, we going to collect
                     money and organise the test of the service with crypto transactions as benefits for all car owners.
                 </p>
@@ -177,28 +177,31 @@
         </section>
     </section>
     <section class="container subscribe-wrap">
-        <form role="form" method="post" action="sendEmail.php" class="accelerate-form">
+        <form role="form" method="post" action="sendEmail.php" id="accelerateForm" class="accelerate-form">
 
-        <div class="row">
-            <div class="col-xs-10 col-xs-offset-1">
-                <label>E-mail</label>
-                <input type="email" class="form-control" name="contactEmail" placeholder="name@mycompany.com">
+            <div class="row">
+                <div class="col-xs-10 col-xs-offset-1">
+                    <label>E-mail</label>
+                    <input type="email" class="form-control" name="contactEmail" placeholder="name@mycompany.com">
+                </div>
+                <div class="col-xs-10 col-xs-offset-1">
+                    <label>Name</label>
+                    <input type="text" class="form-control" name="contactName" placeholder="John Smith">
+                </div>
+                <div class="col-xs-10 col-xs-offset-1">
+                    <label>Text</label>
+                    <input type="text" class="form-control" name="contactText" placeholder="...">
+                </div>
+                <div class="col-xs-10 col-xs-offset-1 text-center">
+                    <button class="btn btn-primary btn-lg send-button">Send</button>
+                    <p class="form-description">By clicking the button, you agree with our terms of services.</p>
+                    <div class="message-warning"></div>
+                </div>
             </div>
-            <div class="col-xs-10 col-xs-offset-1">
-                <label>Name</label>
-                <input type="text" class="form-control" name="contactName" placeholder="John Smith">
-            </div>
-            <div class="col-xs-10 col-xs-offset-1">
-                <label>Phone</label>
-                <input type="text" class="form-control" name="contactPhone" placeholder="+1234 900 0000">
-            </div>
-            <div class="col-xs-10 col-xs-offset-1 text-center">
-                <button class="btn btn-primary btn-lg send-button">Send</button>
-                <p class="form-description">By clicking the button, you agree with our terms of services.</p>
-            </div>
-        </div>
 
         </form>
+
+        <div class="message-success">Thank you for your request, we will respond as soon as possible.</div>
     </section>
 </section>
 
@@ -214,7 +217,8 @@
                         promote your crypto project
                     </h1>
 
-                    <p class="heading-description">we will promote your business in Silicone Valley in front of best investors and possible clients
+                    <p class="heading-description">we will promote your business in Silicon Valley in front of best
+                        investors and possible clients
                     </p>
                 </div>
 
@@ -225,7 +229,9 @@
             <div class="col-md-8 col-md-offset-2">
                 <p class="idea-text">
                     <strong>Why I need it?</strong><br/>
-                    You will have outdoor advertisement in Silicone Valley. You can get a connections with investors inside San Francisco Bay area thought our service. We will provide photo with the car on different locations in Silicone Valley what will bring credibility and recognizability for your project.
+                    You will have outdoor advertisement in Silicon Valley. You can get a connections with investors
+                    inside San Francisco Bay area thought our service. We will provide photo with the car on different
+                    locations in Silicon Valley what will bring credibility and recognizability for your project.
                 </p>
                 <p class="idea-text">
                     <strong>What promo you can offer?</strong><br/>

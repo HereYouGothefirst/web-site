@@ -7,20 +7,21 @@ $configs = include('config.php');
 if($_POST) {
     $name = trim(stripslashes($_POST['contactName']));
     $email = trim(stripslashes($_POST['contactEmail']));
-    $phone = trim(stripslashes($_POST['contactPhone']));
+    $text = trim(stripslashes($_POST['contactText']));
 
-    if (strlen($name) < 2) {
+    if (strlen($name) <= 0) {
         $error['name'] = "Name incorrect";
     }
 
     if (!preg_match('/^[a-z0-9&\'\.\-_\+]+@[a-z0-9\-]+\.([a-z0-9\-]+\.)*+[a-z]{2}/is', $email)) {
-        $error['email'] = "Email incorrect/";
+        $error['email'] = "Email incorrect";
     }
 
 
+    if (!$error) {
     $message .= "Email from: " . $name . "<br />";
     $message .= "Email address: " . $email . "<br />";
-    $message .= "Phone: " . $phone . "<br />";
+        $message .= "Text: " . $text . "<br />";
 
 
     $message .= "<br /> ----- <br /> This email was sent from your site's contact form. <br />";
@@ -51,7 +52,16 @@ if($_POST) {
         exit;
     }
 
-    echo 'Message has been sent';
+        echo 'OK';
+    } else {
+
+        $response = (isset($error['name'])) ? $error['name'] . "<br /> \n" : null;
+        $response .= (isset($error['email'])) ? $error['email'] . "<br /> \n" : null;
+        $response .= (isset($error['message'])) ? $error['message'] . "<br />" : null;
+
+        echo $response;
+
+    }
 }
 
 ?>
