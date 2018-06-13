@@ -62,7 +62,21 @@
                         smart-contracts and we will bring profit for the car owners using it for ride sharing.</br>
                         We will share that experience in social networks. Want to have a share of the future?
                     </p>
+
+                    <div class="contribution-progress">
+                        <div class="contribution-progress__heading">Contribution progress</div>
+
+                        <div class="contribution-progress__progress-container">
+                            <div class="contribution-progress__line" style="width: 1%">
+                                <div class="contribution-progress__sign">$1 000</div>
+                            </div>
+                        </div>
+
+                        <div class="contribution-progress__goal">$100 000</div>
+                    </div>
+
                     <a href="#subscribe" class="btn btn-primary btn-lg want-to-join-button">I want to join</a>
+
                 </div>
             </div>
         </div>

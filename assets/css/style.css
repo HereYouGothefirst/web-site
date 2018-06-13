@@ -1361,3 +1361,36 @@ a.banner-tesla:hover {
     padding: 10px;
     display: none;
 }
+
+.contribution-progress {
+    padding: 4px;
+    max-width: 800px;
+    margin: 20px auto;
+    position: relative;
+}
+
+.contribution-progress__progress-container {
+    padding: 4px;
+    border: 1px solid;
+}
+
+.contribution-progress__line {
+    background: white;
+    position: relative;
+    display: block;
+    height: 26px;
+}
+
+.contribution-progress__sign {
+    position: absolute;
+    overflow: visible;
+    right: -20px;
+    bottom: -35px;
+    white-space: nowrap;
+}
+
+.contribution-progress__goal {
+    position: absolute;
+    right: -62px;
+    top: 33px;
+}
