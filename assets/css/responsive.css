@@ -1,0 +1,227 @@
+/* /////////////////////////////////////////////////////////////////////
+//  Responsive Fixes
+/////////////////////////////////////////////////////////////////////*/
+
+/*1340px - 1170px*/
+
+@media all and (max-width: 1340px) and (min-width: 1170px) {
+    .address-list li {
+        font-size: 18px;
+    }
+
+    .address-list li i {
+        width: 60px;
+        height: 60px;
+        font-size: 34px;
+
+    }
+}
+
+/*1170px - 992px*/
+
+@media all and (max-width: 1170px) and (min-width: 992px) {
+    .address {
+        width: 100%;
+    }
+
+    .mailbox {
+        width: 100%;
+    }
+
+    .address-list {
+        padding: 200px 0px 70px 0px;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .address {
+        height: 340px;
+    }
+
+    .mailbox .container {
+        margin-top: 100px;
+        height: auto;
+    }
+
+    .address-list {
+        padding: 200px 0px 70px 0px;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .address-list li {
+        font-size: 16px;
+        padding: 1em;
+        display: inline-block;
+    }
+
+    .address-list li i {
+        display: table-cell;
+        line-height: 42px;
+        width: 42px;
+        height: 40px;
+        font-size: 18px;
+    }
+}
+
+/*1170px*/
+
+@media all and (max-width: 1170px) {
+    .address {
+        width: 100%;
+    }
+
+    .mailbox {
+        width: 100%;
+    }
+
+    .mailbox {
+        padding-bottom: 111px;
+        height: auto;
+    }
+
+    .mailbox .container {
+        margin-top: 130px;
+        margin-bottom: 0px;
+    }
+}
+
+/*992px*/
+
+@media all and (max-width: 992px) {
+    .headings h1, .headings p {
+        text-align: center;
+    }
+
+    .block-title {
+        font-size: 2.8em;
+    }
+}
+
+/*768px*/
+
+@media all and (max-width: 768px) {
+    #footer, .copyright {
+        text-align: center;
+    }
+}
+
+/*480px*/
+
+@media all and (max-width: 480px) {
+    .btn-custom {
+        padding: 5px 0px;
+    }
+
+    .problems-container {
+        flex-wrap: wrap;
+    }
+
+    .problem-item {
+        width: 100%;
+    }
+
+    #solveProblem {
+        padding: 40px 0;
+    }
+
+    #description {
+        padding: 40px 0;
+    }
+
+    .block-title {
+        font-size: 2em;
+        line-height: 1.5em;
+    }
+
+    .black-text-container {
+        max-width: 94%;
+    }
+
+    .block {
+        padding: 40px 0 40px 0;
+    }
+
+    .default-video {
+        border: 15px solid rgba(0, 0, 0, .4);
+        width: 94%;
+    }
+
+    .faq-container {
+        max-width: 94%;
+    }
+
+    .social-timelines {
+        flex-direction: column;
+    }
+
+    .twitter-container {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .facebook-container {
+        width: 100%;
+    }
+
+    .team-member-row {
+        flex-direction: column;
+    }
+
+    .team-member {
+        margin: 0 10px 20px;
+    }
+
+    .team-social {
+        padding: 0 0 8px;
+    }
+
+    .team-member p {
+        padding: 10px 10px 0 10px;
+    }
+
+    .headings h1 {
+        font-size: 26px;
+    }
+
+    .logo-image {
+        height: 70px;
+        width: 80px;
+    }
+
+    .header-link--email {
+        display: none;
+    }
+
+    .sidebar-nav-link--email {
+        display: block
+    }
+
+    .video-background {
+        display: none;
+    }
+
+    .want-to-join-button {
+        margin: 30px 0 100px;
+    }
+
+    .tesla-block--main p {
+        font-size: 18px;
+    }
+
+    .contribution-progress {
+        left: -25px;
+    }
+
+    ul.details-list {
+        list-style: none;
+        padding: 0;
+    }
+
+    .idea-text {
+        padding: 0;
+        text-align: center;
+    }
+}
+
+
