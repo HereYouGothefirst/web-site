@@ -56,11 +56,11 @@
                         Prototype with Tesla
                     </h1>
                     <p>
-                        We will buy Tesla car with crypto, we will split the ownership of the car between
-                        contributors
-                        by</br>
-                        smart-contracts and we will bring profit for the car owners using it for ride sharing.</br>
-                        We will share that experience in social networks. Want to have a share of the future?
+                        To create a prototype we will buy Tesla, using crypto currency. We will split Tesla ownership
+                        proportionally to contribution, using smart contract protocol. We will split profit from ride
+                        sharing between contributors. We will promote this experience in social media. Do you want to
+                        own a share of the future?
+
                     </p>
 
                     <div class="contribution-progress">
@@ -75,7 +75,7 @@
                         <div class="contribution-progress__goal">$100 000</div>
                     </div>
 
-                    <a href="#subscribe" class="btn btn-primary btn-lg want-to-join-button">I want to join</a>
+                    <a href="#subscribe" class="btn btn-primary btn-lg want-to-join-button page-link">I want to join</a>
 
                 </div>
             </div>
