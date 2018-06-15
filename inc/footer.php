@@ -5,7 +5,7 @@
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/wow.min.js"></script>
 <script src="assets/js/owl.carousel.js"></script>
-<script src="assets/js/script.js?v=1.0.13"></script>
+<script src="assets/js/script.js?v=<?=$version?>"></script>
 
 </body>
 </html>

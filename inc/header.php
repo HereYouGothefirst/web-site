@@ -1,3 +1,8 @@
+<?php
+exec('git log --format="%H" -n 1', $output);
+$version = $output[0];
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,11 +19,11 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.css">
     <link rel="stylesheet" href="assets/css/owl.theme.css">
     <!--    <link rel="stylesheet" href="assets/css/animate.css">-->
-    <link rel="stylesheet" href="assets/css/style.css?v=1.0.14">
-    <link rel="stylesheet" href="assets/css/responsive.css?v=1.0.14">
-    <link rel="stylesheet" href="assets/css/override-styles.css?v=1.0.13">
+    <link rel="stylesheet" href="assets/css/style.css?v=<?=$version?>">
+    <link rel="stylesheet" href="assets/css/responsive.css?v=<?=$version?>">
+    <link rel="stylesheet" href="assets/css/override-styles.css?v=<?=$version?>">
 
-    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="icon" type="image/png" href="/favicon.png?v=<?=$version?>">
 
     <!-- fonts -->
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic|Roboto+Condensed:300italic,400italic,700italic,400,300,700|Oxygen:400,300,700'
