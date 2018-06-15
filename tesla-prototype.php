@@ -87,10 +87,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <p class="heading-description">The idea behind is to create first diversified ownership taxi service in
-                    Silicon
-                    Valley, we going to collect
-                    money and organise the test of the service with crypto transactions as benefits for all car owners.
+                <p class="heading-description">The idea behind is to create the first taxi service with diversified car ownership in Silicon Valley. We are going to raise $100 000 from contributors to create a prototype and to test the service with crypto transactions.
                 </p>
             </div>
         </div>
@@ -98,17 +95,13 @@
         <div class="row">
             <div class="col-md-4 col-md-offset-1">
                 <p class="idea-text">
-                    We want to organize a prototype test to show the possibility of several things: joint ownership of
-                    the car, transactions on the technology of blockchain, the possibility of increasing the efficiency
-                    of the transport system due to new technologies in finance.
+                    We want to organize the prototype test to prove the possibility of:
+                    joint ownership for a car
+                    application of blockchain technology to ride-sharing services
+                    increase the efficiency of transport system due to new technologies in finance.
                 </p>
-                <p class="idea-text">Blockchain transaction. An important part of our business is the creation of an
-                    ecosystem around autonomous technologies, at the same time we see financial and transactional
-                    aspects as an obstacle to the development of this technology of self-driving cars.</p>
-                <p class="idea-text">Prototype. In the course of the experiment, we will test transport and financial
-                    issues related to the provision of ride-sharing services. The main question for which we want to
-                    find the answer is how to increase the efficiency of the transport infrastructure through blockchain
-                    technology?</p>
+                <p class="idea-text">When contributions will be raised and Telsa will be bought, we will organize the registration of the car ownership in the DMV for all contributors proportionally to contributions. Then we will organize an insurance for the car taking into account decentralized ownership. We will test a new role in the industry – the role of administrator of the car. In our vision this role can be executed by current drivers. So, when the self-driving technology will be mass deployed, the drivers will not lose their jobs, they will take another role. The new role will be consisted of organizational activities related to a car like coordination of registration, technical services, profit payments to contributors in crypto currency and insurance.</p>
+                <p class="idea-text">We consider the blockchain technology as the most effective platform for transactional business execution. We plan to demonstrate the capabilities of the blockchain technology with our business prototype. We will reveal the simplicity and efficiency of transactions for purchasing of a share of a car as well as for receiving the profit in crypto currency into the same crypto wallet from which the contribution was transferred.</p>
             </div>
             <div class="col-md-6">
                 <img class="default-image" src="/assets/img/tesla-page/kostya-on-tesla-palo.jpg">
