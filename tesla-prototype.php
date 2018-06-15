@@ -86,14 +86,14 @@
 <section id="idea" class="tesla-block tesla-block--idea">
     <div class="container">
         <div class="row">
-            <div class="col-md-10 col-md-offset-1">
+            <div class="col-md-10">
                 <p class="heading-description">The idea behind is to create the first taxi service with diversified car ownership in Silicon Valley. We are going to raise $100 000 from contributors to create a prototype and to test the service with crypto transactions.
                 </p>
             </div>
         </div>
 
         <div class="row">
-            <div class="col-md-4 col-md-offset-1">
+            <div class="col-md-6">
                 <p class="idea-text">
                     We want to organize the prototype test to prove the possibility of:
                     joint ownership for a car
@@ -110,7 +110,14 @@
         </div>
 
     </div>
+
+    <div class="pie-chart-container">
+        <p class="default-text">Prototype for blockchain based fleet management system for self-driving cars:</p>
+        <img src="/assets/img/pie-chart-blockchain.png" class="default-image pie-chart-blockchain-image"/>
+    </div>
 </section>
+
+
 
 
 <section id="details" class="block tesla-block tesla-block--details">

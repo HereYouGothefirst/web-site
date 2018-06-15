@@ -14,8 +14,8 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.css">
     <link rel="stylesheet" href="assets/css/owl.theme.css">
     <!--    <link rel="stylesheet" href="assets/css/animate.css">-->
-    <link rel="stylesheet" href="assets/css/style.css?v=1.0.13">
-    <link rel="stylesheet" href="assets/css/responsive.css?v=1.0.13">
+    <link rel="stylesheet" href="assets/css/style.css?v=1.0.14">
+    <link rel="stylesheet" href="assets/css/responsive.css?v=1.0.14">
     <link rel="stylesheet" href="assets/css/override-styles.css?v=1.0.13">
 
     <link rel="icon" type="image/png" href="/favicon.png">

@@ -953,6 +953,10 @@ p.team-position {
     font-weight: 100;
 }
 
+.pie-chart-blockchain-image {
+    width: 900px;
+    margin-top: 24px;
+}
 .pie-chart-image {
     width: 73%;
     margin-top: 24px;
