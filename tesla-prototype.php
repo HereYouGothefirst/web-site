@@ -102,10 +102,18 @@
                 </p>
                 <p class="idea-text">When contributions will be raised and Telsa will be bought, we will organize the registration of the car ownership in the DMV for all contributors proportionally to contributions. Then we will organize an insurance for the car taking into account decentralized ownership. We will test a new role in the industry – the role of administrator of the car. In our vision this role can be executed by current drivers. So, when the self-driving technology will be mass deployed, the drivers will not lose their jobs, they will take another role. The new role will be consisted of organizational activities related to a car like coordination of registration, technical services, profit payments to contributors in crypto currency and insurance.</p>
                 <p class="idea-text">We consider the blockchain technology as the most effective platform for transactional business execution. We plan to demonstrate the capabilities of the blockchain technology with our business prototype. We will reveal the simplicity and efficiency of transactions for purchasing of a share of a car as well as for receiving the profit in crypto currency into the same crypto wallet from which the contribution was transferred.</p>
-            </div>
+                            </div>
             <div class="col-md-6">
                 <img class="default-image" src="/assets/img/tesla-page/kostya-on-tesla-palo.jpg">
                 <p class="image-label">CEO of HereYouGo Konstantin in Tesla Palo Alto Branch.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <p class="idea-text">
+                    Demonstration of the effectiveness of blockchain application in transport will be reflected in our prototype and will consist in linkage of car purchase transactions to reverse transactions of profit payments from the car usage. In addition, joint ownership will be realized by smart contracts tied to wallets from which the transactions were made.</p>
+                <p class="idea-text">We chose for demonstration the Tesla car, because Tesla has the highest level of autonomous technology which available on the market at the moment. Thus, we will be able to bring our prototype closer to the real conditions of using self-driving cars.</p>
+
             </div>
         </div>
 
@@ -221,7 +229,7 @@
 
 
 
-<section id="offer" class="tesla-block tesla-block--offer">
+<!--<section id="offer" class="tesla-block tesla-block--offer">
     <div class="container">
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
@@ -256,7 +264,7 @@
             </div>
         </div>
     </div>
-</section>
+</section>-->
 
 
 
