@@ -576,12 +576,7 @@
 
         <div class="clearfix"></div>
 
-        <div class="pie-chart-container">
-            <p class="default-text">Our platform will accelerate the development of autonomous public transport through
-                the interaction of the following factors:</p>
-            <img src="/assets/img/pie-chart.png" class="default-image pie-chart-image"/>
-        </div>
-    </section>
+        HereYouGo is blockchain based fleet management system for self-driving cars.
 </section>
 
 
