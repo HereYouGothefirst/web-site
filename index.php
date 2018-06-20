@@ -61,7 +61,7 @@
                         SAFE AND COMFORTABLE TRANSPORTATION FOR EVERYONE – HERE YOU GO!
                     </h1>
                     <p class="wow animated fadeInLeft">
-                        HereYouGo is a finance transactions platform for public transportation with self-driving cars.
+                        HereYouGo is blockchain based fleet management system for self-driving cars.
                         It provides taxi service with autonomous vehicles on decentralized blockchain platform by
                         connecting car owners with their clients.
                     </p>
@@ -576,7 +576,12 @@
 
         <div class="clearfix"></div>
 
-        HereYouGo is blockchain based fleet management system for self-driving cars.
+        <div class="pie-chart-container">
+            <p class="default-text">Our platform will accelerate the development of autonomous public transport through
+                the interaction of the following factors:</p>
+            <img src="/assets/img/pie-chart.png" class="default-image pie-chart-image"/>
+        </div>
+    </section>
 </section>
 
 
