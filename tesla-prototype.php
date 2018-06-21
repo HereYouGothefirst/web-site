@@ -216,7 +216,7 @@
                 </div>
                 <div class="col-xs-10 col-xs-offset-1 text-center">
                     <button class="btn btn-primary btn-lg send-button">Send</button>
-                    <p class="form-description">By clicking the button, you agree with our terms of services.</p>
+                <!--    <p class="form-description"></p>-->
                     <div class="message-warning"></div>
                 </div>
             </div>
