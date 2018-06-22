@@ -183,6 +183,61 @@
     </section>
 </section>
 
+<section id="businessModel" class="tesla-block tesla-block--offer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+                <div class="title-box">
+                    <p class="heading-description">Our business model will go through three stages of development
+                        related to autonomy level of cars available on the market:
+                    </p>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <p class="idea-text">
+                    1. The first stage is connected with the 3rd level of car autonomy. The cutting edge technology is
+                    realized in Tesla car today, therefore we decided to build our prototype based on it. Monetization
+                    model on this stage is crowd-funding for the Tesla car through the blockchain platform with crypto
+                    currencies. We are going to buy up to three Tesla cars to test our prototype in conditions which is
+                    close to the reality. The minimum available contribution to crowd-funding on this stage is $1000.
+                    Further this contribution will be converted into share of our company proportionally to the
+                    contribution.
+                </p>
+                <p class="idea-text">
+                    2. The second stage is connected with 4th level of car autonomy which will be available on the
+                    market within a year. This technology will allow to mainly refuse from driver services and the
+                    effectiveness of car utilization will rise significantly because of human factor decrease. This
+                    improvement in effectiveness will lead to convergence of the economy and car owners will start to
+                    get return on investments up to 30% yearly. We will launch the mass crowd-funding of autonomous
+                    cars. The minimum available contribution to the car ownership on this stage will be $100. The
+                    monetization model will be based on fixed monthly renting payments per the car from taxi providers
+                    like Uber and Lyft. We will charge the percentage from this amount for our operation services and
+                    will transfer the rest of the money to car owners proportionally to their contribution to the car
+                    crowd-funding. The role of drivers will be changed from driver services to administrative and
+                    coordination role for self-driving cars.
+                <p class="idea-text">
+                    3. The third stage is connected with 5th level of car autonomy which will be available within three
+                    years. The technology will transform the transportation system significantly. Because of the huge
+                    improvement in effectiveness, the traffic jams will disappear, people will be commuted several times
+                    faster and it will be not much a difference where to live – within the city or in the nearby town.
+                    The working hours will start from the time, when the person sits in the car, so the efficiency of
+                    the economy and people life with increase. This technology will get access to easy transportation
+                    for seniors, children and disabled people. Ion this stage automobiles will be purchased on the same
+                    principle of crowd-funding through the blockchain platform with crypto currencies. The minimum
+                    available contribution will not be set, so, it can be any amount due to the fact that regulation
+                    will be adapted for the crowd-funding. Cars will be operated without third-party providers due to
+                    rise in intellectual capabilities of cars. The monetization model will be turned to commission
+                    based. The car owners will get the price which users paid for the taxi service deducting our
+                    commission. The taxi drivers will have to learn new skills to be qualified to hold the changed role
+                    of administrator and financial coordinator of the cars.</div>
+        </div>
+    </div>
+</section>
+
 
 <section id="subscribe">
     <section class="container">
