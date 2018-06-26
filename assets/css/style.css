@@ -945,7 +945,9 @@ p.team-position {
 
 .pie-chart-container {
     text-align: center;
-    padding-top: 40px;
+    padding: 40px;
+    background: rgba(255, 255, 255, .8);
+    margin-top: 40px;
 }
 
 .pie-chart-container p {

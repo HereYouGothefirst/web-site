@@ -168,8 +168,18 @@
                     Engineers opinion that if right now replace drivers with computers, then life will become safer
                     today, so what the problem?
                 </p>
+                <p class="default-text">
+                    We focus on next problems which slow down the deployment of autonomous technology: liability,
+                    finance incentives and closed inside corporations software (which is never perfect).
+                </p>
             </div>
 
+            <div class="pie-chart-container">
+                <p class="default-text">Our platform will accelerate the development of autonomous public transport through
+                    the interaction of the following factors:</p>
+                <img src="/assets/img/pie-chart.png" class="default-image pie-chart-image"/>
+            </div>
+            
         </section>
 
     </section>
@@ -576,11 +586,6 @@
 
         <div class="clearfix"></div>
 
-        <div class="pie-chart-container">
-            <p class="default-text">Our platform will accelerate the development of autonomous public transport through
-                the interaction of the following factors:</p>
-            <img src="/assets/img/pie-chart.png" class="default-image pie-chart-image"/>
-        </div>
     </section>
 </section>
 
