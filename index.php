@@ -175,11 +175,12 @@
             </div>
 
             <div class="pie-chart-container">
-                <p class="default-text">Our platform will accelerate the development of autonomous public transport through
-                    the interaction of the following factors:</p>
+                <p class="default-text">During the prototype test we will investigate transport and financial issues
+                    related to provision of ride-sharing services. The main question which we want to investigate is <br/>
+                    “How to increase the efficiency of transport infrastructure using blockchain technology?”</p>
                 <img src="/assets/img/pie-chart.png" class="default-image pie-chart-image"/>
             </div>
-            
+
         </section>
 
     </section>
