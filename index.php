@@ -61,16 +61,17 @@
                         SAFE AND COMFORTABLE TRANSPORTATION FOR EVERYONE – HERE YOU GO!
                     </h1>
                     <p class="wow animated fadeInLeft">
-                        HereYouGo is blockchain based fleet management system for self-driving cars.
-                        It provides taxi service with autonomous vehicles on decentralized blockchain platform by
-                        connecting car owners with their clients.
+                        HereYouGo is blockchain based fleet management system for self-driving cars.<br/>
+                        It provides finance service which allows:<br/>
+                        – to buy a share of self-driving car and get return on investments<br/>
+                        – to share liabilities in the cutting edge technology.
                     </p>
                     <p class="wow animated fadeInLeft">
-                        In simple words: we operate your car when you don't use it.
+                        In simple words: you make an investment into self-driving car, we operate it to generate profit for you!
                     </p>
 
                     <p class="wow animated fadeInLeft text-bold">
-                        New level of sharing economy for better world.
+                        Our mission is to make self-driving technology happen in every day life!
                     </p>
                     <div class="row">
                         <div class="col-xs-6 col-sm-6 col-md-5">
@@ -108,7 +109,7 @@
                     <h1 class="block-title wow animated rollIn">
                         <span class="bb-top-left"></span>
                         <span class="bb-bottom-left"></span>
-                        What big problem does it solve?
+                        WHAT BIG PROBLEMS DOES IT SOLVE?
                         <span class="bb-top-right"></span>
                         <span class="bb-bottom-right"></span>
                     </h1>
@@ -116,24 +117,23 @@
 
                 <div class="problems-container">
                     <div class="problem-item">
-                        <h2>1. Safety</h2>
+                        <h2>1. Liability</h2>
                         <p class="default-text">
-                            Experts forecast that once autonomous technology will have been fully developed, traffic collisions (and resulting deaths and injuries) caused by human mistakes, such as delayed reaction time, messaging while driving and other forms of destructive driving will be significantly reduced .
-                        </p>
+                            Basic principle of shared ownership which underlies our business allows to share liabilities for the possible incidents with self-driving cars. From our perspectives, this is a crucial element which will allow to implement the self-driving technology faster and reduce the risk for car owners
+                            </p>
 
                     </div>
                     <div class="problem-item">
-                        <h2>2. Price</h2>
+                        <h2>2. Financing</h2>
                         <p class="default-text">
-                            Taxi costs for users will drop significantly, because there will be no driver's salary in the cost structure. Moreover, the trip routing will be much more effective, because the system will take into account all available data to shorten the route and exclude the risk of human mistake.
-
+                            Self-driving cars will be much more expensive than regular cars because of additional hardware and software. Our service will assist in this and allow to buy one self-driving car by several or even by hundreds of people. It will bring more self-driving cars on the road.
                         </p>
                     </div>
 
                     <div class="problem-item">
-                        <h2>3. Comfort</h2>
+                        <h2>3. Job losses</h2>
                         <p class="default-text">
-                            Now when you are alone in the car you can do whatever you want: to work, to sing, to do yoga.   No more stress connecting with driving and navigation while you commute – leave the driving job to the new technologies! Choose the speed of driving and don't worry, because the system can not be sleepy, drunk or aggressive.
+                            Implementation of self-driving cars will lead to dismissal of millions drivers. But our services will create new roles which can be filled by current drivers. The new roles will be combine the role of administrator and financial coordinator of self-driving car.
                         </p>
                     </div>
                 </div>
