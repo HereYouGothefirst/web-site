@@ -673,71 +673,49 @@
         <div class="faq-container">
             <div class=faq-item>
                 <a class="faq-question" role="button" data-toggle="collapse" href="#q1">
-                    What does the company do?
+                    What does HereYouGo do?
                 </a>
                 <div class="faq-answer collapse" id="q1">
-                    Company create eco-system (blockchain platform, partners and developers network) for self-driving
-                    car owners and riders.
+                    HereYouGo solves three important questions for self-driving market: sharing of liabilities, financing of new cars by providing a service of shared ownership and creation of new roles for drivers who obviously will lose their jobs after mass deployment of the technology.
                 </div>
             </div>
 
             <div class=faq-item>
                 <a class="faq-question" role="button" data-toggle="collapse" href="#q2">
-                    What is unique about the company?
+                    When self-driving cars will be on the roads?
                 </a>
                 <div class="faq-answer collapse" id="q2">
-                    The team.
+                    They are already are. Tens of companies got accreditation to test self-driving cars on the roads in California. Cruise plans to launch self-driving cars into commercial use in 2019 after 3 billion-dollars investment from Softbank and General Motors. Waymo plans to buy up to 62 000 self-driving cars from Chrysler this year. So the market is hot and huge companies compete to be the leader on the trillion-dollars market.
                 </div>
             </div>
 
             <div class=faq-item>
                 <a class="faq-question" role="button" data-toggle="collapse" href="#q3">
-                    What big problem does it solve?
+                    Why do we use blockchain technology?
                 </a>
                 <div class="faq-answer collapse" id="q3">
-                    Safety and price of transportation.
+                    As we see our company mainly as a financial service, we use blockchain technology because of its advantages for financial and transactional tasks, such as reliability, scalability, globality and transparency.
                 </div>
             </div>
 
             <div class=faq-item>
                 <a class="faq-question" role="button" data-toggle="collapse" href="#q4">
-                    When self-driving car will be on the streets?
+                    Where are we locate?
                 </a>
                 <div class="faq-answer collapse" id="q4">
-                    They already are, but we expect that market will be opened for everyone in 2019.
+                    The core team is located in Silicon Valley.
                 </div>
             </div>
 
             <div class=faq-item>
                 <a class="faq-question" role="button" data-toggle="collapse" href="#q5">
-                    How many people in the team?
+                    What the size of the market?
                 </a>
                 <div class="faq-answer collapse" id="q5">
-                    We have around 20 people working on our everyday tasks.
-                </div>
-            </div>
-
-            <div class=faq-item>
-                <a class="faq-question" role="button" data-toggle="collapse" href="#q6">
-                    Where are you located?
-                </a>
-                <div class="faq-answer collapse" id="q6">
-                    Our international team is located in
-                    San Francisco, Hong Kong, Moscow and Shanghai
-                </div>
-            </div>
-
-            <div class=faq-item>
-                <a class="faq-question" role="button" data-toggle="collapse" href="#q7">
-                    How big is the market opportunity?
-                </a>
-                <div class="faq-answer collapse" id="q7">
-                    More than 10 bln. in revenue streams.
+                    The market will be significantly transformed along with self-driving technology development. We estimate that the market size will consist of amount of self-driving cars sales as well as services around this industry. Intel made a prediction that self-driving car will be $7 billion-dollars industry.
                 </div>
             </div>
         </div>
-
-
     </section>
 </section>
 
