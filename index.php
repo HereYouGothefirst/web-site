@@ -203,7 +203,7 @@
             </div>
         </section>
 
-        <img src="/assets/img/roadmap.png" class="default-image"/>
+        <img src="/assets/img/roadmap.png?v=1" class="default-image"/>
 
     </section>
 </section>
@@ -321,14 +321,14 @@
             </div>
 
             <div class="team-member team-member--adviser wow animated fadeIn" data-wow-delay=="0.3s">
-                <div style="background-image: url(assets/img/team/advisers/3.jpg)" class="team-pic"></div>
+                <div style="background-image: url(assets/img/team/advisers/3.jpg?v=1)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">
-                    Yoon Kim
-                    <a href="https://www.linkedin.com/in/yoon-kim-a5015ba3/" target="_blank">
+                    Amiyata Kalia
+                    <a href="https://www.linkedin.com/in/amiyatakalia/" target="_blank">
                         <i class="ion-social-linkedin"></i>
                     </a>
                 </h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Founder and CEO of Starfeed</p>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Senior Manager at Adobe</p>
             </div>
         </section>
     </section>
