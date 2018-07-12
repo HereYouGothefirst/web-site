@@ -299,11 +299,6 @@
                 <div style="background-image: url(assets/img/team/advisers/1.jpg)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">
                     Juan Acosta
-
-                    <a href="https://www.linkedin.com/in/thejcad/" target="_blank">
-                        <i class="ion-social-linkedin"></i>
-                    </a>
-
                 </h2>
                 <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Partner DraperU Ventures</p>
             </div>
@@ -312,9 +307,6 @@
                 <div style="background-image: url(assets/img/team/advisers/2.jpg)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">
                     Chris Novak
-                    <a href="https://www.linkedin.com/in/chrisnovak2/" target="_blank">
-                        <i class="ion-social-linkedin"></i>
-                    </a>
                 </h2>
                 <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">President of The Electric Vehicle
                     Entrepreneurs of Silicon Valley (EVE)</p>
@@ -324,9 +316,6 @@
                 <div style="background-image: url(assets/img/team/advisers/3.jpg?v=1)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">
                     Amiyata Kalia
-                    <a href="https://www.linkedin.com/in/amiyatakalia/" target="_blank">
-                        <i class="ion-social-linkedin"></i>
-                    </a>
                 </h2>
                 <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Senior Manager at Adobe</p>
             </div>
