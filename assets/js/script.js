@@ -1,7 +1,6 @@
 // Preloader //
 
 jQuery(document).ready(function ($) {
-
     $(window).load(function () {
         $('#preloader').fadeOut('slow', function () {
             $(this).remove();
@@ -42,15 +41,16 @@ jQuery(document).ready(function ($) {
         '17.jpg',
         '18.jpg'
     ];
-    var animateTime = 400;
+
+    var images = [];
+    for (var i = 0; i < files.length; i++) {
+        images[i] = new Image();
+        images[i].src = path + files[i];
+    }
 
     function changePicture() {
         $('.mobile-prototype__description').text(counter + 1 + '/' + files.length);
-
-        $('.mobile-prototype__image').animate({'opacity': '0'}, animateTime, function () {
-            $(this).css('background-image', 'url(' + path + files[counter] + ')');
-            $(this).animate({'opacity': '1'}, animateTime);
-        });
+        $('.mobile-prototype__image').css('background-image', 'url(' + path + files[counter] + ')');
     }
 
     function nextMobileImage() {

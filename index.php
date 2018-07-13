@@ -88,16 +88,13 @@
                         Our mission is to make self-driving technology happen in every day life!
                     </p>
                     <div class="row">
-                        <div class="col-xs-6 col-sm-6 col-md-5">
+                        <div class="col-xs-8 col-sm-8 col-md-8">
                             <div>
-                                <a href="#" class="polo-btn store wow animated bounceInUp android-btn"><i
-                                            class="ion-social-android"></i> Mobile prototypes</a>
-                            </div>
-                        </div>
-                        <div class="col-xs-6 col-sm-6 col-md-5">
-                            <div>
-                                <a href="#" class="polo-btn store wow animated bounceInUp disabled"><i
-                                            class="ion-social-apple"></i> App Store</a>
+                                <a href="#" class="polo-btn store wow animated bounceInUp android-btn">
+                                    <i class="ion-social-apple"></i>
+                                    <i class="ion-social-android"></i>
+                                    Mobile prototypes
+                                </a>
                             </div>
                         </div>
                     </div>
