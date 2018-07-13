@@ -25,6 +25,20 @@
 </a>
 <!-- ****************************** Header ************************** -->
 
+<div class="mobile-prototype">
+    <div class="mobile-prototype__frame-container ">
+
+        <div class="mobile-prototype__image" style="background-image:url(/assets/img/mobile/01.jpg)">
+            <div class="mobile-prototype__frame"></div>
+        </div>
+        <div class="mobile-prototype__description">1/18</div>
+    </div>
+    <div class="mobile-prototype__arrow mobile-prototype__arrow--left">←</div>
+    <div class="mobile-prototype__arrow mobile-prototype__arrow--right">→</div>
+
+    <div class="mobile-prototype__close">×</div>
+</div>
+
 <header class="sticky" id="header">
     <section class="container">
         <section class="row" id="logo_menu">
@@ -76,8 +90,8 @@
                     <div class="row">
                         <div class="col-xs-6 col-sm-6 col-md-5">
                             <div>
-                                <a href="#" class="polo-btn store wow animated bounceInUp disabled"><i
-                                            class="ion-social-android"></i> Play Store</a>
+                                <a href="#" class="polo-btn store wow animated bounceInUp android-btn"><i
+                                            class="ion-social-android"></i> Mobile prototypes</a>
                             </div>
                         </div>
                         <div class="col-xs-6 col-sm-6 col-md-5">

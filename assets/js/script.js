@@ -15,6 +15,88 @@ jQuery(document).ready(function ($) {
             allowTransparency="true" allow="encrypted-media"></iframe>';
 
         $('.facebook-container').html(fbIframe);
+        $('.mobile-prototype').hide().css('opacity', '0')
+    });
+
+
+    /* mobile proto */
+    var counter = 0;
+    var path = '/assets/img/mobile/';
+    var files = [
+        '01.jpg',
+        '02.jpg',
+        '03.jpg',
+        '04.jpg',
+        '05.jpg',
+        '06.jpg',
+        '07.jpg',
+        '08.jpg',
+        '09.jpg',
+        '10.jpg',
+        '11.jpg',
+        '12.jpg',
+        '13.jpg',
+        '14.jpg',
+        '15.jpg',
+        '16.jpg',
+        '17.jpg',
+        '18.jpg'
+    ];
+    var animateTime = 400;
+
+    function changePicture() {
+        $('.mobile-prototype__description').text(counter + 1 + '/' + files.length);
+
+        $('.mobile-prototype__image').animate({'opacity': '0'}, animateTime, function () {
+            $(this).css('background-image', 'url(' + path + files[counter] + ')');
+            $(this).animate({'opacity': '1'}, animateTime);
+        });
+    }
+
+    function nextMobileImage() {
+        counter++;
+
+        if (counter === files.length) counter = 0;
+
+        changePicture();
+    }
+
+    function prevMobileImage() {
+        counter--;
+
+        if (counter < 0) counter = files.length - 1;
+
+        changePicture();
+    }
+
+    function toggleMobilePrototype(isShow) {
+        if (isShow) {
+            $('.mobile-prototype')
+                .show()
+                .animate({'opacity': '1'}, 600);
+        } else {
+            $('.mobile-prototype')
+                .animate({'opacity': '0'}, 600, function () {
+                    $('.mobile-prototype').hide();
+                });
+        }
+    }
+
+    $('.mobile-prototype__arrow--right').on('click', nextMobileImage);
+    $('.mobile-prototype__arrow--left').on('click', prevMobileImage);
+    $('.mobile-prototype__close').on('click', function () {
+        toggleMobilePrototype(false);
+    });
+    $('.android-btn').on('click', function () {
+        toggleMobilePrototype(true);
+    });
+
+    $(document).on('keyup', function (e) {
+        if ($('.mobile-prototype').is(':visible')) {
+            if (e.keyCode === 37) prevMobileImage();
+            if (e.keyCode === 39) nextMobileImage();
+            if (e.keyCode === 27) toggleMobilePrototype(false);
+        }
     });
 
 });
