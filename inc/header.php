@@ -6,12 +6,19 @@ $version = $output[0];
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>HereYouGo - self-driving cars on blockchain</title>
+    <title><?=$params['title']?></title>
 
     <!-- meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="<?=$params['url']?>">
+    <meta property="og:title" content="<?=$params['title']?>">
+    <meta property="og:image" content="<?=$params['socialImage']?>">
+    <meta property="og:description" content="<?=$params['title']?>">
+    <meta property="og:locale" content="en_EN">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">

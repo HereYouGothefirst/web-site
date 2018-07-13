@@ -1,3 +1,12 @@
+<?php
+    $params = [
+        'title' => 'HereYouGo - Prototype with Tesla',
+        'url' => 'https://hereyougo.io/tesla-prototype.php',
+        'description' => 'To create a prototype we will buy Tesla, using crypto currency. We will split Tesla ownership proportionally to contribution, using smart contract protocol. We will split profit from ride sharing between contributors. We will promote this experience in social media. Do you want to own a share of the future?',
+        'socialImage' => 'https://hereyougo.io/assets/img/tesla-social.jpg'
+    ];
+?>
+
 <?php require_once('inc/header.php') ?>
 
 
@@ -354,8 +363,3 @@
 
 
 <?php require_once('inc/footer.php') ?>
-
-
-<script>
-    $('title').text('HereYouGo - Prototype with Tesla');
-</script>

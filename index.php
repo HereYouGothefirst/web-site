@@ -1,3 +1,12 @@
+<?php
+$params = [
+    'title' => 'HereYouGo - self-driving cars on blockchain',
+    'url' => 'https://hereyougo.io',
+    'description' => 'SAFE AND COMFORTABLE TRANSPORTATION FOR EVERYONE – HERE YOU GO!',
+    'socialImage' => 'https://hereyougo.io/assets/img/social.jpg'
+];
+?>
+
 <?php require_once('inc/header.php') ?>
 
 <!-- ****************************** Sidebar ************************** -->
