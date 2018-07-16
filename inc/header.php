@@ -16,7 +16,7 @@ $version = $output[0];
     <meta property="og:url" content="<?=$params['url']?>">
     <meta property="og:title" content="<?=$params['title']?>">
     <meta property="og:image" content="<?=$params['socialImage']?>">
-    <meta property="og:description" content="<?=$params['title']?>">
+    <meta property="og:description" content="<?=$params['description']?>">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
