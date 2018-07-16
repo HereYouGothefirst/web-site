@@ -170,7 +170,7 @@ $params = [
                 <h1 class="block-title wow animated rollIn">
                     <span class="bb-top-left" style="border-color: #fff; "></span>
                     <span class="bb-bottom-left" style="border-color: #fff; "></span>
-                    so what the problem?
+                    Why self-driving technology is so important?
                     <span class="bb-top-right" style="border-color: #fff; "></span>
                     <span class="bb-bottom-right" style="border-color: #fff; "></span>
                 </h1>
@@ -178,19 +178,28 @@ $params = [
 
             <div class="black-text-container">
                 <p class="default-text">
-                    Autonomous cars will improve people's lives. It will make education and medicine more accessible.
-                    Prices for food will fall by 2 times, because the cost of delivery will fall. We can become more
-                    healthy. There will be less emissions, accidents and traffic jams. The cities will become more
-                    comfortable and beautiful. There will be less space for roads, there you can do public spaces -
-                    parks and benches.
+                    Autonomous cars will improve life of people:
+                    Experts and engineers predict that self-driving cars will save millions lives.
                 </p>
                 <p class="default-text">
-                    Engineers opinion that if right now replace drivers with computers, then life will become safer
-                    today, so what the problem?
+                    Mobility of seniors and children will increase significantly.
+                    Price of goods will become cheaper, because the cost of delivery will drop.
                 </p>
                 <p class="default-text">
-                    We focus on next problems which slow down the deployment of autonomous technology: liability,
-                    finance incentives and closed inside corporations software (which is never perfect).
+                    Health of people will become better, because the technology will bring less emission and fewer
+                    accidents.
+                </p>
+
+                <p class="default-text">
+                    People will get a chance to become much more effective: they can start working as they sit into a
+                    car, they will spend less time in traffic jams, because self-driving technology will use all
+                    available data to shorten the trip and human factor will be excluded. Moreover, you won't need to
+                    spend tons of time searching for parking slots in busy area of a town. So, you can spend additional
+                    time with your family or do your hobbies.
+                </p>
+                <p class="default-text">
+                    Cities will become more comfortable: there will be less space for roads and instead there will be
+                    parks and recreation areas.
                 </p>
             </div>
 
@@ -685,7 +694,11 @@ $params = [
                     What does HereYouGo do?
                 </a>
                 <div class="faq-answer collapse" id="q1">
-                    HereYouGo solves three important questions for self-driving market: sharing of liabilities, financing of new cars by providing a service of shared ownership and creation of new roles for drivers who obviously will lose their jobs after mass deployment of the technology.
+                    HereYouGo solves three important issues for self-driving market:<br/>
+                    sharing of finance liability of parties involved in value chain of autonomous mobility;<br/>
+                    funding new cars by providing a service of shared ownership;<br/>
+                    creation of new roles for drivers who obviously will lose their jobs after mass deployment of the
+                    technology.
                 </div>
             </div>
 
@@ -694,7 +707,11 @@ $params = [
                     When self-driving cars will be on the roads?
                 </a>
                 <div class="faq-answer collapse" id="q2">
-                    They are already are. Tens of companies got accreditation to test self-driving cars on the roads in California. Cruise plans to launch self-driving cars into commercial use in 2019 after 3 billion-dollars investment from Softbank and General Motors. Waymo plans to buy up to 62 000 self-driving cars from Chrysler this year. So the market is hot and huge companies compete to be the leader on the trillion-dollars market.
+                    They already are. Tens of companies got accreditation to test self-driving cars on the roads in
+                    California. Cruise plans to launch self-driving cars into commercial use in 2019 after 3
+                    billion-dollars investment from Softbank and General Motors. Waymo plans to buy up to 62 000
+                    self-driving cars from Chrysler this year. So the market is hot and huge companies compete to be the
+                    leader on the trillion-dollars market.
                 </div>
             </div>
 
@@ -721,7 +738,10 @@ $params = [
                     What the size of the market?
                 </a>
                 <div class="faq-answer collapse" id="q5">
-                    The market will be significantly transformed along with self-driving technology development. We estimate that the market size will consist of amount of self-driving cars sales as well as services around this industry. Intel made a prediction that self-driving car will be $7 billion-dollars industry.
+                    The market will be significantly transformed along with self-driving technology development. We
+                    estimate that the market size will consist of amount of self-driving cars sales as well as services
+                    around this industry. Intel made a prediction that self-driving car will be $7 trillion-dollars
+                    industry.
                 </div>
             </div>
         </div>

@@ -2,7 +2,6 @@
 exec('git log --format="%H" -n 1', $output);
 $version = $output[0];
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +17,6 @@ $version = $output[0];
     <meta property="og:title" content="<?=$params['title']?>">
     <meta property="og:image" content="<?=$params['socialImage']?>">
     <meta property="og:description" content="<?=$params['title']?>">
-    <meta property="og:locale" content="en_EN">
 
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
