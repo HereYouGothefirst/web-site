@@ -260,7 +260,7 @@ $params = [
                 </p>
             </div>
 
-            <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/Wd3OlmomT5w"
+            <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/Ng0MqUJ27DU"
                     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
         </section>
