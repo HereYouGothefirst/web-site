@@ -559,46 +559,44 @@ $params = [
         <section class="row">
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                    <i class="ion-ios-locked-outline" style="color:#9b59b6;"></i>
-                    <h2>Safety</h2>
-                    <p>Self-driving cars will be safest way of transportation for everyone.</p>
+                    <i class="ion-eye" style="color:#9b59b6;"></i>
+                    <h2>Transparency</h2>
+                    <p>All financial transactions and operations connected with a car (including insurance) will be recorded in unchangeable format on blockchain platform. If a client will want to recalculate any transaction, he will have an access to all information on blockchain platform to do so.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                    <i class="ion-ios-time-outline" style="color:#d35400;"></i>
-                    <h2>Time</h2>
-                    <p>During commuting you can read or sleep, do anything you like to do when you alone.</p>
+                    <i class="ion-android-wifi" style="color:#d35400;"></i>
+                    <h2>Efficiency</h2>
+                    <p>In our everyday life we use a car about 4% of all time, the rest of the time a car is on parking slots. Then the car will become a part of public transportation, the effectiveness will increase significantly: the car can work non-stop without breaks for dinner, sleep or personal needs. It will tend to fewer cars on the road, less traffic and as a result – more effective transport system.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
-                    <i class="ion-ios-box-outline" style="color:#00ceb8;"></i>
-                    <h2>Presents</h2>
-                    <p>We like to make people happy. We ask our clients about their birthday and prepare cool
-                        presents.</p>
+                    <i class="ion-card" style="color:#c0392b;"></i>
+                    <h2>Price</h2>
+                    <p>As effectiveness of transport system will increase significantly, the price per mile will drop. So, more people will afford to ride by car instead of traditional public transportation. Also, it will be cheaper to use ride-sharing rather than to own a personal car. Moreover, the price of transportation will be so affordable that it will be not much difference how far you live from workplace, from school or from your favorite yoga center.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
-                    <i class="ion-card" style="color:#c0392b;"></i>
-                    <h2>Price</h2>
-                    <p>Price for ride will be 10 times more affordable.</p>
+                    <i class="ion-cash" style="color:#c0392b;"></i>
+                    <h2>Profit</h2>
+                    <p>Everyone can invest any amount of money and get a share of self-driving car in return. We will collect this money, buy a car and make all operations to get the car works making money on ride-sharing service. You will get all this money proportionally to your contribution into the car deducting our commission. We estimate profit about 30% a year.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
                     <i class="ion-ios-loop" style="color:#27ae60;"></i>
-                    <h2>Flexibility</h2>
-                    <p>It will be possible to ride together with other people if you want to.</p>
+                    <h2>Usability</h2>
+                    <p>When we create our service, we think about user-friendly interface to provide the best user  experience for our clients. We are always open for your feedback, if you have any ideas how to improve your user experience – contact us by hello@hereyougo.io.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
-                    <i class="ion-android-wifi" style="color:#2c3e50;"></i>
-                    <h2>Efficiency</h2>
-                    <p>Cars will be connected to each other and with transport infrastructure, so it will be less
-                        traffic conjunctions.</p>
+                    <i class="ion-android-happy" style="color:#2c3e50;"></i>
+                    <h2>Fun</h2>
+                    <p>CBuying a share of self-driving car, you become a part of a history, make a contribution to high-tech companies with a mission to make transport safer and more comfortable and experiencing the most advanced technologies invented in the center of Silicon Valley.</p>
                 </div>
             </div>
         </section>
