@@ -85,9 +85,9 @@ $params = [
                     </h1>
                     <p class="wow animated fadeInLeft">
                         HereYouGo is blockchain based fleet management system for self-driving cars.<br/>
-                        It provides finance service which allows:<br/>
+                        It provides service which allows:<br/>
                         – to buy a share of self-driving car and get return on investments<br/>
-                        – to share liabilities in the cutting edge technology.
+                        – to share finance liability of parties involved in value chain of autonomous mobility
                     </p>
                     <p class="wow animated fadeInLeft">
                         In simple words: you make an investment into self-driving car, we operate it to generate profit for you!
@@ -261,6 +261,9 @@ $params = [
             </div>
 
             <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/Ng0MqUJ27DU"
+                    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+            <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/6hCAmOFVWp4"
                     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
         </section>
