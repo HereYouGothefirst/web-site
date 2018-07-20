@@ -856,6 +856,10 @@ p.team-position {
     background: #f9f9f9;
 }
 
+#prototypes {
+    background: #f9f9f9;
+}
+
 .owl-wrapper {
     display: flex !important;
     align-content: center;

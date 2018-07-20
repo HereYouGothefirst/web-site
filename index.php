@@ -29,9 +29,9 @@ $params = [
         <li><a href="#faq" class="faq">faq</a></li>
     </ul>
 </nav>
-<a href="/tesla-prototype.php" class="banner-tesla">
+<!--<a href="/tesla-prototype.php" class="banner-tesla">
     Prototype with Tesla
-</a>
+</a>-->
 <!-- ****************************** Header ************************** -->
 
 <div class="mobile-prototype">
@@ -117,6 +117,10 @@ $params = [
                 </div>
             </div>
         </section>
+
+        <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/6hCAmOFVWp4"
+                frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
     </section>
 </section>
 
@@ -261,9 +265,6 @@ $params = [
             </div>
 
             <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/Ng0MqUJ27DU"
-                    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-            <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/6hCAmOFVWp4"
                     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
         </section>
@@ -672,6 +673,33 @@ $params = [
                                 src="assets/img/backed-by/deep-racing.png" class="wow animated zoomIn"></a>
 
                 </div>
+            </div>
+        </section>
+    </section>
+</section>
+
+<section id="prototypes" class="block">
+    <section class="container">
+        <section class="row">
+            <div class="title-box"><h1 class="block-title wow animated rollIn">
+                    <span class="bb-top-left"></span>
+                    <span class="bb-bottom-left"></span>
+                    Prototypes
+                    <span class="bb-top-right"></span>
+                    <span class="bb-bottom-right"></span>
+                </h1></div>
+        </section>
+        <section class="row">
+            <div class="pie-chart-container">
+                <h2>First prototype - done!</h2>
+                <p class="default-text">
+                    We connected an open protocol for self-driving cars Donkey.Car with blockchain platform to test sharing ownership of $200 RC model car between 5 contributors.
+                </p>
+                <h2>Second prototype - in progress</h2>
+                <p class="default-text">
+                    To create a second prototype close to reality we will buy Tesla, using crowdfunding with crypto. We will split Tesla ownership proportionally to contribution, using smart contract. We will split profit from ride sharing partner between contributors.
+                </p>
+
             </div>
         </section>
     </section>
