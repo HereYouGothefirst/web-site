@@ -81,7 +81,7 @@ $params = [
             <div class="col-md-7">
                 <div class="headings">
                     <h1 class="wow animated fadeInDown">
-                        SAFE AND COMFORTABLE TRANSPORTATION FOR EVERYONE – HERE YOU GO!
+                        BUY A SHARE OF SELF-DRIVING CAR AND DON’T PAY FOR TRANSPORTATION!
                     </h1>
                     <p class="wow animated fadeInLeft">
                         HereYouGo is blockchain based fleet management system for self-driving cars.<br/>
@@ -690,17 +690,23 @@ $params = [
                 </h1></div>
         </section>
         <section class="row">
-            <div class="pie-chart-container">
-                <h2>First prototype - done!</h2>
-                <p class="default-text">
-                    We connected an open protocol for self-driving cars Donkey.Car with blockchain platform to test sharing ownership of $200 RC model car between 5 contributors.
-                </p>
-                <h2>Second prototype - in progress</h2>
-                <p class="default-text">
-                    To create a second prototype close to reality we will buy Tesla, using crowdfunding with crypto. We will split Tesla ownership proportionally to contribution, using smart contract. We will split profit from ride sharing partner between contributors.
-                </p>
+                    <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/jwDLUWe9vOk"
+                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-            </div>
+                    <div class="pie-chart-container">
+                        <h2>First prototype</h2>
+                        <p class="default-text">
+                            We connected an open protocol for self-driving cars Donkey.
+                            Car with blockchain platform to test sharing ownership of $200 RC model car between 5 contributors.
+                        </p>
+                        <br/>
+                        <h2>Second prototype</h2>
+                        <p class="default-text">
+                            To create a second prototype close to reality we will buy Tesla, using crowdfunding with crypto.
+                            We will split Tesla ownership proportionally to contribution, using smart contract.
+                            We will split profit from ride sharing partner between contributors.
+                        </p>
+                    </div>
         </section>
     </section>
 </section>
