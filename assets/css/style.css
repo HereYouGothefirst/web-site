@@ -829,6 +829,14 @@ p.team-position {
     line-height: 2em;
 }
 
+.default-text--links {
+    font-size: 20px;
+}
+
+.default-text--links > a {
+    text-decoration: underline;
+}
+
 .default-video {
     margin: 20px auto 0;
     display: block;
@@ -948,6 +956,14 @@ p.team-position {
 }
 
 .pie-chart-container {
+    text-align: center;
+    padding: 40px;
+    background: rgba(255, 255, 255, .8);
+    margin-top: 40px;
+}
+
+
+.default-block {
     text-align: center;
     padding: 40px;
     background: rgba(255, 255, 255, .8);

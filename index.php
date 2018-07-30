@@ -690,23 +690,35 @@ $params = [
                 </h1></div>
         </section>
         <section class="row">
-                    <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/jwDLUWe9vOk"
-                            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/jwDLUWe9vOk"
+                    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-                    <div class="pie-chart-container">
-                        <h2>First prototype</h2>
-                        <p class="default-text">
-                            We connected an open protocol for self-driving cars Donkey.
-                            Car with blockchain platform to test sharing ownership of $200 RC model car between 5 contributors.
-                        </p>
-                        <br/>
-                        <h2>Second prototype</h2>
-                        <p class="default-text">
-                            To create a second prototype close to reality we will buy Tesla, using crowdfunding with crypto.
-                            We will split Tesla ownership proportionally to contribution, using smart contract.
-                            We will split profit from ride sharing partner between contributors.
-                        </p>
-                    </div>
+            <div class="pie-chart-container">
+                <h2>First prototype</h2>
+                <p class="default-text">
+                    We connected an open protocol for self-driving cars Donkey.
+                    Car with blockchain platform to test sharing ownership of $200 RC model car between 5 contributors.
+                </p>
+                <br/>
+                <h2>Second prototype</h2>
+                <p class="default-text">
+                    To create a second prototype close to reality we will buy Tesla, using crowdfunding with crypto.
+                    We will split Tesla ownership proportionally to contribution, using smart contract.
+                    We will split profit from ride sharing partner between contributors.
+                </p>
+            </div>
+
+            <div class="default-block">
+                <h3>GitHub smart contracts links</h3>
+
+                <p class="default-text default-text--links default-text--air">
+                    1.
+                    <a href="https://github.com/HereYouGothefirst/eth-smart-contracts/blob/master/HereYouGoDonkeyCar.sol"
+                       target="_blank">HereYouGoDonkeyCar.sol</a><br/>
+                    ...
+
+                </p>
+            </div>
         </section>
     </section>
 </section>
