@@ -290,7 +290,7 @@ $params = [
 
         <section class="row">
             <div class="col-md-6">
-                <img src="/assets/img/Architecture_v2.jpg" class="default-image"/>
+                <img src="/assets/img/Architecture_v3.png" class="default-image"/>
             </div>
 
             <div class="col-md-6">
