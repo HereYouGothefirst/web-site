@@ -37,10 +37,10 @@ $params = [
 <div class="mobile-prototype">
     <div class="mobile-prototype__frame-container ">
 
-        <div class="mobile-prototype__image" style="background-image:url(/assets/img/mobile/01.jpg)">
-            <div class="mobile-prototype__frame"></div>
+        <div class="mobile-prototype__image">
+            <!--<div class="mobile-prototype__frame"></div>-->
         </div>
-        <div class="mobile-prototype__description">1/18</div>
+        <div class="mobile-prototype__description"></div>
     </div>
     <div class="mobile-prototype__arrow mobile-prototype__arrow--left">←</div>
     <div class="mobile-prototype__arrow mobile-prototype__arrow--right">→</div>
@@ -81,7 +81,7 @@ $params = [
             <div class="col-md-7">
                 <div class="headings">
                     <h1 class="wow animated fadeInDown">
-                        BUY A SHARE OF SELF-DRIVING CAR AND DON’T PAY FOR TRANSPORTATION!
+                        MAKING SELF-DRIVING CARS AFFORDABLE
                     </h1>
                     <p class="wow animated fadeInLeft">
                         HereYouGo is blockchain based fleet management system for self-driving cars.<br/>

@@ -1261,7 +1261,7 @@ a.banner-tesla:hover {
 .mobile-prototype__frame-container {
     order: 2;
     flex-grow: 2;
-    height: 60%;
+    height: 80%;
 }
 
 .mobile-prototype__arrow.mobile-prototype__arrow--right {
@@ -1283,7 +1283,7 @@ a.banner-tesla:hover {
 }
 
 .mobile-prototype__description {
-    margin-top: 10%;
+    margin-top: 1%;
 }
 
 .mobile-prototype__close {
