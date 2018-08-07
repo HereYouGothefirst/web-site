@@ -295,17 +295,19 @@ $params = [
 
             <div class="col-md-6">
                 <p class="default-text default-text--air">
-                    <strong>Components:</strong><br/>
-                    Our system in the cloud, responsible for the logic of the selection of machines, geolocation,
-                    communication with users and machines. <br/><br/>
-                    <strong>The base consists of:</strong><br/>
-                    <strong>a.</strong> Logic block (can be split into separate services for load balancing)<br/>
-                    <strong>b.</strong> Block Web API for communicating with the site and mobile applications of
-                    customers and machine owners<br/>
-                    <strong>c.</strong> Block Web API for interaction with the API of unmanned vehicles (through their
-                    clouds, directly to the car, I think we will not get access)<br/>
-                    <strong>d.</strong> DAL unit - data management, storage, redundancy, communication with the block
-                </p>
+                    The user will see the product as a mobile application with different roles: passenger, owner and car
+                    administrator. </p>
+                <p class="default-text default-text--air">For the role of administrator the section of car operational
+                    management will be
+                    available: the settings of time and area of driving, the car systems management, the payment for
+                    gasoline, car wash and other services.</p>
+                <p class="default-text default-text--air">For the role of car owner the section of permissions and
+                    settings management will be available as well as the section of assignment of the administrator. If
+                    the car is in the joint ownership the section for voting will additionally appear to take decisions
+                    and change settings which require the owners' consensus. </p>
+                <p class="default-text default-text--air">For the role of passenger the section of
+                    searching and the car booking will be available. This section is basic and available for all
+                    roles. </p>
             </div>
         </section>
 
