@@ -20,6 +20,9 @@
 /*1170px - 992px*/
 
 @media all and (max-width: 1170px) and (min-width: 992px) {
+    #banner {
+        padding: 132px 0;
+    }
     .address {
         width: 100%;
     }
