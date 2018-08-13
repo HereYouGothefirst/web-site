@@ -405,24 +405,19 @@ $params = [
             </div>
 
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                <div style="background-image: url(assets/img/team/2.jpg)" class="team-pic"></div>
-                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Jonathan Frazier</h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Strategy Director</p>
+                <div style="background-image: url(assets/img/team/9.jpeg)" class="team-pic"></div>
+                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Ramesh Manian</h2>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Blockchain Strategy Director</p>
 
                 <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                    Draper University, Massachusetts Institute of Technology
-                    <br/>ex. Mailhaven, Ecronomy
+                    Cornell University Graduate School
+                    <br/>ex.  eBay Inc, Ricoh Americas Corporation
                 </p>
 
                 <ul class="team-social">
                     <li class="wow animated fadeInLeft linkedin">
-                        <a href="https://www.linkedin.com/in/jonathan-frazier-a7141221/" target="_blank">
+                        <a href="https://www.linkedin.com/in/rameshmanian/" target="_blank">
                             <i class="ion-social-linkedin"></i>
-                        </a>
-                    </li>
-                    <li class="wow animated fadeInLeft linkedin">
-                        <a href="https://www.facebook.com/jjfraz11" target="_blank">
-                            <i class="ion-social-facebook"></i>
                         </a>
                     </li>
                 </ul>
@@ -522,24 +517,24 @@ $params = [
             </div>
 
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                <div style="background-image: url(assets/img/team/7.jpg)" class="team-pic"></div>
-                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Alex Mirzoyan</h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Marketing Director</p>
+                <div style="background-image: url(assets/img/team/2.jpg)" class="team-pic"></div>
+                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Jonathan Frazier</h2>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Technical Director</p>
 
                 <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                    MBA Canterbury University
-                    <br/>ex. TakeBus, Projector Group
+                    Draper University, Massachusetts Institute of Technology
+                    <br/>ex. Mailhaven, Ecronomy
                 </p>
 
                 <ul class="team-social">
                     <li class="wow animated fadeInLeft linkedin">
-                        <a href="https://www.facebook.com/mirzoyan67" target="_blank">
-                            <i class="ion-social-facebook"></i>
+                        <a href="https://www.linkedin.com/in/jonathan-frazier-a7141221/" target="_blank">
+                            <i class="ion-social-linkedin"></i>
                         </a>
                     </li>
-                    <li class="wow animated fadeInLeft instagram">
-                        <a href="https://www.instagram.com/mirzoiansacha/" target="_blank">
-                            <i class="ion-social-instagram"></i>
+                    <li class="wow animated fadeInLeft linkedin">
+                        <a href="https://www.facebook.com/jjfraz11" target="_blank">
+                            <i class="ion-social-facebook"></i>
                         </a>
                     </li>
                 </ul>
