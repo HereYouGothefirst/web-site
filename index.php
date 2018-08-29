@@ -81,7 +81,7 @@ $params = [
             <div class="col-md-7">
                 <div class="headings">
                     <h1 class="wow animated fadeInDown">
-                        MAKING SELF-DRIVING CARS AFFORDABLE FOR EVERYONE
+                        MAKING TRANSPORTATION AFFORDABLE FOR EVERYONE
                     </h1>
                     <p class="wow animated fadeInLeft">
                         HereYouGo is blockchain based fleet management system for self-driving cars.<br/>
