@@ -118,7 +118,7 @@ $params = [
             </div>
         </section>
 
-        <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/6hCAmOFVWp4"
+        <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/jJ6W9mQxxUE"
                 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
     </section>
@@ -654,7 +654,7 @@ $params = [
             <div class="title-box"><h1 class="block-title wow animated rollIn">
                     <span class="bb-top-left"></span>
                     <span class="bb-bottom-left"></span>
-                    The company backed by:
+                    We are part of:
                     <span class="bb-top-right"></span>
                     <span class="bb-bottom-right"></span>
                 </h1></div>
@@ -664,8 +664,8 @@ $params = [
                 <div id="backedByLinks" class="owl-carousel owl-theme">
                     <a href="https://www.draperuniversity.com/" target="_blank" class="item"><img
                                 src="assets/img/backed-by/drapper-university.png" class="wow animated zoomIn"></a>
-                    <a href="http://www.evesv.com" target="_blank" class="item"><img
-                                src="assets/img/backed-by/eve.png" class="wow animated zoomIn"></a>
+                    <a href="https://www.startupschool.org/" target="_blank" class="item"><img
+                                src="assets/img/backed-by/y.jpg" class="wow animated zoomIn"></a>
                     <a href="http://deepracing.com/" target="_blank" class="item"><img
                                 src="assets/img/backed-by/deep-racing.png" class="wow animated zoomIn"></a>
 
