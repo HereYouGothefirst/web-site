@@ -84,10 +84,10 @@ $params = [
                         MAKING TRANSPORTATION AFFORDABLE FOR EVERYONE
                     </h1>
                     <p class="wow animated fadeInLeft">
-                        HereYouGo is blockchain based fleet management system for self-driving cars.<br/>
-                        It provides service which allows:<br/>
-                        – to buy a share of self-driving car and get return on investments<br/>
-                        – to share finance liability of parties involved in value chain of autonomous mobility
+                        We split ownership of self-driving cars among users of our service. So you can invest any amount of money and use autonomous cars for your transportation needs.
+                    </p>
+                    <p class="wow animated fadeInLeft">
+                        We call our service fleet management system because we do everything for your car from documents preparation to car washing.
                     </p>
                     <p class="wow animated fadeInLeft">
                         In simple words: you make an investment into self-driving car, we operate it to generate profit for you!
@@ -668,8 +668,16 @@ $params = [
                                 src="assets/img/backed-by/y.jpg" class="wow animated zoomIn"></a>
                     <a href="http://deepracing.com/" target="_blank" class="item"><img
                                 src="assets/img/backed-by/deep-racing.png" class="wow animated zoomIn"></a>
+                    <a href="http://acgsv.org/" target="_blank" class="item"><img
+                            src="assets/img/backed-by/acg.jpg" class="wow animated zoomIn"></a>
 
                 </div>
+
+                <div class="customNavigation">
+                    <a class="btn backed-by-prev gallery-nav wow animated bounceInLeft"><i class="ion-ios-arrow-left"></i></a>
+                    <a class="btn backed-by-next gallery-nav wow animated bounceInRight"><i class="ion-ios-arrow-right"></i></a>
+                </div>
+
             </div>
         </section>
     </section>

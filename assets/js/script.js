@@ -154,6 +154,14 @@ $(document).ready(function () {
         owl.trigger('owl.prev');
     });
 
+    $(".backed-by-next").click(function () {
+        owlBB.trigger('owl.next');
+    });
+
+    $(".backed-by-prev").click(function () {
+        owlBB.trigger('owl.prev');
+    });
+
     //var advisers = $('.team-member-row--advisers');
     //advisers.owlCarousel(carouselConfig);
 
