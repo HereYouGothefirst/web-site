@@ -84,13 +84,10 @@ $params = [
                         MAKING TRANSPORTATION AFFORDABLE FOR EVERYONE
                     </h1>
                     <p class="wow animated fadeInLeft">
-                        We split ownership of self-driving cars among users of our service. So you can invest any amount of money and use autonomous cars for your transportation needs.
+                        We split ownership of self-driving cars among users of our service. So you can buy part of vehicle and use autonomous cars for your transportation needs.
                     </p>
                     <p class="wow animated fadeInLeft">
                         We call our service fleet management system because we do everything for your car from documents preparation to car washing.
-                    </p>
-                    <p class="wow animated fadeInLeft">
-                        In simple words: you make an investment into self-driving car, we operate it to generate profit for you!
                     </p>
 
                     <p class="wow animated fadeInLeft text-bold">
@@ -583,7 +580,7 @@ $params = [
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
                     <i class="ion-cash" style="color:#c0392b;"></i>
                     <h2>Profit</h2>
-                    <p>Everyone can invest any amount of money and get a share of self-driving car in return. We will collect this money, buy a car and make all operations to get the car works making money on ride-sharing service. You will get all this money proportionally to your contribution into the car deducting our commission. We estimate profit about 30% a year.</p>
+                    <p>Everyone can put money any amount of money and get a share of self-driving car in return. We will collect this money, buy a car and make all operations to get the car works making money on ride-sharing service. You will get all this money proportionally to your contribution into the car deducting our commission. We estimate profit about 30% a year.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">

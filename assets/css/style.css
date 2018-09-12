@@ -858,6 +858,7 @@ p.team-position {
 
 #backedByLinks .owl-item img {
     max-height: 95px;
+    max-width: 180px;
 }
 
 #partners {
