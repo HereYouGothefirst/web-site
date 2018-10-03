@@ -402,6 +402,26 @@ $params = [
             </div>
 
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                <div style="background-image: url(assets/img/team/5.jpg)" class="team-pic"></div>
+                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Alex Winter</h2>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Team Lead</p>
+
+                <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                    South Ural State University
+                    <br/>ex. TakeBus, Malahit
+                </p>
+
+                <ul class="team-social">
+                    <li class="wow animated fadeInLeft linkedin">
+                        <a href="https://www.linkedin.com/in/alexeywinter/" target="_blank">
+                            <i class="ion-social-linkedin"></i>
+                        </a>
+                    </li>
+                </ul>
+
+            </div>
+
+<!--            <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                 <div style="background-image: url(assets/img/team/9.jpeg)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Ramesh Manian</h2>
                 <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Blockchain Strategy Director</p>
@@ -419,7 +439,7 @@ $params = [
                     </li>
                 </ul>
 
-            </div>
+            </div>-->
 
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                 <div style="background-image: url(assets/img/team/8.jpg)" class="team-pic"></div>
@@ -448,7 +468,7 @@ $params = [
             </div>
         </section>
 
-        <section class="row team-member-row">
+<!--        <section class="row team-member-row">
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                 <div style="background-image: url(assets/img/team/4.jpg)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Marks Jing Xu</h2>
@@ -474,25 +494,7 @@ $params = [
 
             </div>
 
-            <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                <div style="background-image: url(assets/img/team/5.jpg)" class="team-pic"></div>
-                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Alex Winter</h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Team Lead</p>
 
-                <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                    South Ural State University
-                    <br/>ex. TakeBus, Malahit
-                </p>
-
-                <ul class="team-social">
-                    <li class="wow animated fadeInLeft linkedin">
-                        <a href="https://www.linkedin.com/in/alexeywinter/" target="_blank">
-                            <i class="ion-social-linkedin"></i>
-                        </a>
-                    </li>
-                </ul>
-
-            </div>
 
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                 <div style="background-image: url(assets/img/team/6.jpg)" class="team-pic"></div>
@@ -537,7 +539,7 @@ $params = [
                 </ul>
 
             </div>
-        </section>
+        </section>-->
 
     </section>
 </section>
