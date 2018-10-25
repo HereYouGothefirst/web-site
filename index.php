@@ -351,6 +351,14 @@ $params = [
                 </h2>
                 <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Senior Manager at Adobe</p>
             </div>
+
+            <div class="team-member team-member--adviser wow animated fadeIn" data-wow-delay=="0.3s">
+                <div style="background-image: url(assets/img/team/advisers/4.jpg?v=1)" class="team-pic"></div>
+                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">
+                    Alexander Chaychuk
+                </h2>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">CTO at Shoppilot</p>
+            </div>
         </section>
     </section>
 </section>
@@ -414,6 +422,25 @@ $params = [
                 <ul class="team-social">
                     <li class="wow animated fadeInLeft linkedin">
                         <a href="https://www.linkedin.com/in/alexeywinter/" target="_blank">
+                            <i class="ion-social-linkedin"></i>
+                        </a>
+                    </li>
+                </ul>
+
+            </div>
+
+            <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
+                <div style="background-image: url(assets/img/team/10.jpg)" class="team-pic"></div>
+                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Jenny Ma</h2>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">PR director</p>
+
+                <p class="wow animated fadeIn" data-wow-delay=="0.7s">
+                    Draper University, Omsk State University
+                </p>
+
+                <ul class="team-social">
+                    <li class="wow animated fadeInLeft linkedin">
+                        <a href="https://www.linkedin.com/in/evgeniya-maslennikova/" target="_blank">
                             <i class="ion-social-linkedin"></i>
                         </a>
                     </li>
