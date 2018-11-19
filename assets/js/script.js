@@ -211,6 +211,7 @@ $(window).scroll(function () {
 
 $(document).ready(function () {
     $('#accelerateForm').submit(sendEmail);
+    $('#subscribeForm').submit(subscribe);
 });
 
 function sendEmail() {
@@ -236,6 +237,36 @@ function sendEmail() {
             $('.message-warning').html(msg);
             $('.message-warning').fadeIn();
             $('.accelerate-form').removeClass('accelerate-form--loading');
+        }
+    });
+
+    return false;
+}
+
+function subscribe() {
+    $('.message-warning').fadeOut();
+    $('.subscribe-form').addClass('subscribe-form--loading');
+
+    $.ajax({
+        type: "POST",
+        url: "subscribe.php",
+        data: $('#subscribeForm').serialize(),
+        success: function (msg) {
+            if (msg == 'OK') {
+                $('.message-success').fadeIn();
+                $('#subscribeForm').fadeOut();
+            }
+            else {
+                $('.message-warning').html(msg);
+
+                $('.message-warning').fadeIn();
+                $('.subscribe-form').removeClass('subscribe-form--loading');
+            }
+        },
+        error: function(msg) {
+            $('.message-warning').html(msg);
+            $('.message-warning').fadeIn();
+            $('.subscribe-form').removeClass('subscribe-form--loading');
         }
     });
 

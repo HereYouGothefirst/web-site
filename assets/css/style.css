@@ -535,7 +535,7 @@ a:hover {
     font-size: 20px;
     padding: 15px 30px;
     height: auto;
-    border: 2px solid #01bc85;
+    border: 2px solid #375a64;
     border-radius: 0px;
     box-shadow: none;
 }
@@ -545,9 +545,9 @@ a:hover {
     padding: 5px 15px;
     font-size: 34px;
     margin-top: 0px;
-    background: #01bc85;
+    background: #375a64;
     box-shadow: none;
-    border: 2px solid #01bc85;
+    border: 2px solid #375a64;
     margin-left: -16px;
     color: #fff;
 }
@@ -731,7 +731,6 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 //  15 - other
 /////////////////////////////////////////////////////////////////////*/
 
-
 .logo-image {
     height: 110px;
     width: 130px;
@@ -743,14 +742,12 @@ input:-moz-placeholder, textarea:-moz-placeholder {
     transition: all 0.5s;
 }
 
-
 .fixed .logo-image {
     height: 50px;
     margin-top: 0;
     background: url(/assets/img/logo-fixed.png) left center no-repeat;
     background-size: contain;
 }
-
 
 .disabled {
     pointer-events: none;
@@ -819,6 +816,7 @@ p.team-position {
 
 #solveProblem {
     padding: 120px 0;
+    background: #f6f6f6;
 }
 
 .default-image {
@@ -947,6 +945,7 @@ p.team-position {
     border: 0 !important;
     text-align: center;
 }
+
 .social-links a {
     color: #333;
 }
@@ -962,7 +961,6 @@ p.team-position {
     background: rgba(255, 255, 255, .8);
     margin-top: 40px;
 }
-
 
 .default-block {
     text-align: center;
@@ -980,6 +978,7 @@ p.team-position {
     max-width: 900px;
     margin-top: 24px;
 }
+
 .pie-chart-image {
     width: 100%;
     margin-top: 24px;
@@ -1007,7 +1006,6 @@ a.header-link:hover {
     top: 1px;
 }
 
-
 .sidebar-nav-link--email {
     display: none;
 }
@@ -1034,7 +1032,6 @@ a.banner-tesla {
 a.banner-tesla:hover {
     text-decoration: underline;
 }
-
 
 /* tesla page */
 
@@ -1070,14 +1067,14 @@ a.banner-tesla:hover {
     padding: 80px 0;
 }
 
-
 .idea-text {
     font-size: 19px;
     font-weight: 300;
-    margin-bottom:  30px;
+    margin-bottom: 30px;
     margin-top: 0;
     padding-right: 36px;
 }
+
 .image-label {
     text-align: center;
     font-size: 14px;
@@ -1097,15 +1094,14 @@ a.banner-tesla:hover {
 
 .details-list li {
     margin-bottom: 20px;
-    font-weight:300;
+    font-weight: 300;
     font-size: 18px;
 }
-
 
 .accelerate-form input.form-control {
     border: 1px solid #333;
     border-radius: 0;
-    margin-bottom:  15px;
+    margin-bottom: 15px;
     font-size: 20px;
     padding: 26px 15px;
     display: block;
@@ -1118,12 +1114,28 @@ a.banner-tesla:hover {
     margin: 0;
 }
 
-
 .accelerate-form {
     position: relative;
 }
 
 .accelerate-form--loading:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 8999;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    background: #fff url('../img/preloader.webp') no-repeat center center;
+    background-size: 88px;
+}
+
+.subscribe-form {
+    position: relative;
+}
+
+.subscribe-form--loading:after {
     content: '';
     position: absolute;
     left: 0;
@@ -1224,7 +1236,6 @@ a.banner-tesla:hover {
     top: 33px;
 }
 
-
 /* mobile proto */
 .mobile-prototype {
     position: fixed;
@@ -1251,7 +1262,7 @@ a.banner-tesla:hover {
 }
 
 .mobile-prototype__arrow:hover {
-    background-color: rgba(255,255,255, .2);
+    background-color: rgba(255, 255, 255, .2);
     cursor: pointer;
 }
 
@@ -1276,6 +1287,7 @@ a.banner-tesla:hover {
     background: url(/assets/img/iphone-x-frame.png) no-repeat center;
     background-size: contain;
 }
+
 .mobile-prototype__image {
     height: 100%;
     position: relative;
@@ -1298,6 +1310,6 @@ a.banner-tesla:hover {
 }
 
 .mobile-prototype__close:hover {
-    background-color: rgba(255,255,255, .2);
+    background-color: rgba(255, 255, 255, .2);
     cursor: pointer;
 }

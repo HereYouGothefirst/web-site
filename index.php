@@ -84,10 +84,12 @@ $params = [
                         MAKING TRANSPORTATION AFFORDABLE FOR EVERYONE
                     </h1>
                     <p class="wow animated fadeInLeft">
-                        We split ownership of self-driving cars among users of our service. So you can buy part of vehicle and use autonomous cars for your transportation needs.
+                        We split ownership of self-driving cars among users of our service. So you can buy part of
+                        vehicle and use autonomous cars for your transportation needs.
                     </p>
                     <p class="wow animated fadeInLeft">
-                        We call our service fleet management system because we do everything for your car from documents preparation to car washing.
+                        We call our service fleet management system because we do everything for your car from documents
+                        preparation to car washing.
                     </p>
 
                     <p class="wow animated fadeInLeft text-bold">
@@ -122,6 +124,43 @@ $params = [
 </section>
 
 
+<section id="subscribe">
+    <section class="container">
+        <section class="row">
+            <div class="col-sm-10 col-sm-offset-1">
+                <p class="susbcribe-text">
+                    <strong>If you would like to become part of our movement please subscribe here:</p>
+            </div>
+        </section>
+    </section>
+    <section class="container subscribe-wrap">
+        <section class="row">
+            <div class="col-sm-12">
+                <form role="form" class="subscribe-form" id="subscribeForm">
+                    <div class="row">
+                        <div class="col-xs-10">
+                            <div class="form-group">
+                                <input type="email" class="form-control" name="email" id="exampleInputEmail1"
+                                       placeholder="Enter email">
+                            </div>
+                        </div>
+                        <div class="col-xs-2">
+                            <button type="submit" class="btn-custom">
+                                <i class="ion-ios-arrow-thin-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </form>
+
+                <div class="message-warning"></div>
+
+                <div class="message-success">Thank you for your request.</div>
+            </div>
+        </section>
+    </section>
+</section>
+
+
 <section id="solveProblem" class="block">
     <section class="container">
         <section class="row">
@@ -140,21 +179,28 @@ $params = [
                     <div class="problem-item">
                         <h2>1. Liability</h2>
                         <p class="default-text">
-                            Basic principle of shared ownership which underlies our business allows to share liabilities for the possible incidents with self-driving cars. From our perspectives, this is a crucial element which will allow to implement the self-driving technology faster and reduce the risk for car owners
-                            </p>
+                            Basic principle of shared ownership which underlies our business allows to share liabilities
+                            for the possible incidents with self-driving cars. From our perspectives, this is a crucial
+                            element which will allow to implement the self-driving technology faster and reduce the risk
+                            for car owners
+                        </p>
 
                     </div>
                     <div class="problem-item">
                         <h2>2. Financing</h2>
                         <p class="default-text">
-                            Self-driving cars will be much more expensive than regular cars because of additional hardware and software. Our service will assist in this and allow to buy one self-driving car by several or even by hundreds of people. It will bring more self-driving cars on the road.
+                            Self-driving cars will be much more expensive than regular cars because of additional
+                            hardware and software. Our service will assist in this and allow to buy one self-driving car
+                            by several or even by hundreds of people. It will bring more self-driving cars on the road.
                         </p>
                     </div>
 
                     <div class="problem-item">
                         <h2>3. Job losses</h2>
                         <p class="default-text">
-                            Implementation of self-driving cars will lead to dismissal of millions drivers. But our services will create new roles which can be filled by current drivers. The new roles will be combine the role of administrator and financial coordinator of self-driving car.
+                            Implementation of self-driving cars will lead to dismissal of millions drivers. But our
+                            services will create new roles which can be filled by current drivers. The new roles will be
+                            combine the role of administrator and financial coordinator of self-driving car.
                         </p>
                     </div>
                 </div>
@@ -206,7 +252,8 @@ $params = [
 
             <div class="pie-chart-container">
                 <p class="default-text">During the prototype test we will investigate transport and financial issues
-                    related to provision of ride-sharing services. The main question which we want to investigate is <br/>
+                    related to provision of ride-sharing services. The main question which we want to investigate is
+                    <br/>
                     “How to increase the efficiency of transport infrastructure using blockchain technology?”</p>
                 <img src="/assets/img/pie-chart.png" class="default-image pie-chart-image"/>
             </div>
@@ -310,6 +357,7 @@ $params = [
 
     </section>
 </section>
+
 
 <section id="advisers" class="block">
     <section class="container">
@@ -455,7 +503,7 @@ $params = [
 
                 <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                     Cornell University Graduate School
-                    <br/>ex.  eBay Inc, Ricoh Americas Corporation
+                    <br/>ex. eBay Inc, Ricoh Americas Corporation
                 </p>
 
                 <ul class="team-social">
@@ -588,42 +636,59 @@ $params = [
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                     <i class="ion-eye" style="color:#9b59b6;"></i>
                     <h2>Transparency</h2>
-                    <p>All financial transactions and operations connected with a car (including insurance) will be recorded in unchangeable format on blockchain platform. If a client will want to recalculate any transaction, he will have an access to all information on blockchain platform to do so.</p>
+                    <p>All financial transactions and operations connected with a car (including insurance) will be
+                        recorded in unchangeable format on blockchain platform. If a client will want to recalculate any
+                        transaction, he will have an access to all information on blockchain platform to do so.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                     <i class="ion-android-wifi" style="color:#d35400;"></i>
                     <h2>Efficiency</h2>
-                    <p>In our everyday life we use a car about 4% of all time, the rest of the time a car is on parking slots. Then the car will become a part of public transportation, the effectiveness will increase significantly: the car can work non-stop without breaks for dinner, sleep or personal needs. It will tend to fewer cars on the road, less traffic and as a result – more effective transport system.</p>
+                    <p>In our everyday life we use a car about 4% of all time, the rest of the time a car is on parking
+                        slots. Then the car will become a part of public transportation, the effectiveness will increase
+                        significantly: the car can work non-stop without breaks for dinner, sleep or personal needs. It
+                        will tend to fewer cars on the road, less traffic and as a result – more effective transport
+                        system.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.3s">
                     <i class="ion-card" style="color:#c0392b;"></i>
                     <h2>Price</h2>
-                    <p>As effectiveness of transport system will increase significantly, the price per mile will drop. So, more people will afford to ride by car instead of traditional public transportation. Also, it will be cheaper to use ride-sharing rather than to own a personal car. Moreover, the price of transportation will be so affordable that it will be not much difference how far you live from workplace, from school or from your favorite yoga center.</p>
+                    <p>As effectiveness of transport system will increase significantly, the price per mile will drop.
+                        So, more people will afford to ride by car instead of traditional public transportation. Also,
+                        it will be cheaper to use ride-sharing rather than to own a personal car. Moreover, the price of
+                        transportation will be so affordable that it will be not much difference how far you live from
+                        workplace, from school or from your favorite yoga center.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
                     <i class="ion-cash" style="color:#c0392b;"></i>
                     <h2>Profit</h2>
-                    <p>Everyone can put money any amount of money and get a share of self-driving car in return. We will collect this money, buy a car and make all operations to get the car works making money on ride-sharing service. You will get all this money proportionally to your contribution into the car deducting our commission. We estimate profit about 30% a year.</p>
+                    <p>Everyone can put money any amount of money and get a share of self-driving car in return. We will
+                        collect this money, buy a car and make all operations to get the car works making money on
+                        ride-sharing service. You will get all this money proportionally to your contribution into the
+                        car deducting our commission. We estimate profit about 30% a year.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
                     <i class="ion-ios-loop" style="color:#27ae60;"></i>
                     <h2>Usability</h2>
-                    <p>When we create our service, we think about user-friendly interface to provide the best user  experience for our clients. We are always open for your feedback, if you have any ideas how to improve your user experience – contact us by hello@hereyougo.io.</p>
+                    <p>When we create our service, we think about user-friendly interface to provide the best user
+                        experience for our clients. We are always open for your feedback, if you have any ideas how to
+                        improve your user experience – contact us by hello@hereyougo.io.</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="feature-box wow animated flipInX" data-wow-delay="0.6s">
                     <i class="ion-android-happy" style="color:#2c3e50;"></i>
                     <h2>Fun</h2>
-                    <p>CBuying a share of self-driving car, you become a part of a history, make a contribution to high-tech companies with a mission to make transport safer and more comfortable and experiencing the most advanced technologies invented in the center of Silicon Valley.</p>
+                    <p>CBuying a share of self-driving car, you become a part of a history, make a contribution to
+                        high-tech companies with a mission to make transport safer and more comfortable and experiencing
+                        the most advanced technologies invented in the center of Silicon Valley.</p>
                 </div>
             </div>
         </section>
@@ -695,13 +760,15 @@ $params = [
                     <a href="http://deepracing.com/" target="_blank" class="item"><img
                                 src="assets/img/backed-by/deep-racing.png" class="wow animated zoomIn"></a>
                     <a href="http://acgsv.org/" target="_blank" class="item"><img
-                            src="assets/img/backed-by/acg.jpg" class="wow animated zoomIn"></a>
+                                src="assets/img/backed-by/acg.jpg" class="wow animated zoomIn"></a>
 
                 </div>
 
                 <div class="customNavigation">
-                    <a class="btn backed-by-prev gallery-nav wow animated bounceInLeft"><i class="ion-ios-arrow-left"></i></a>
-                    <a class="btn backed-by-next gallery-nav wow animated bounceInRight"><i class="ion-ios-arrow-right"></i></a>
+                    <a class="btn backed-by-prev gallery-nav wow animated bounceInLeft"><i
+                                class="ion-ios-arrow-left"></i></a>
+                    <a class="btn backed-by-next gallery-nav wow animated bounceInRight"><i
+                                class="ion-ios-arrow-right"></i></a>
                 </div>
 
             </div>
@@ -798,7 +865,9 @@ $params = [
                     Why do we use blockchain technology?
                 </a>
                 <div class="faq-answer collapse" id="q3">
-                    As we see our company mainly as a financial service, we use blockchain technology because of its advantages for financial and transactional tasks, such as reliability, scalability, globality and transparency.
+                    As we see our company mainly as a financial service, we use blockchain technology because of its
+                    advantages for financial and transactional tasks, such as reliability, scalability, globality and
+                    transparency.
                 </div>
             </div>
 
