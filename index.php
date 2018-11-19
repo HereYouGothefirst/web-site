@@ -479,7 +479,7 @@ $params = [
 
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                 <div style="background-image: url(assets/img/team/10.jpg)" class="team-pic"></div>
-                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Jenny Ma</h2>
+                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Jenny Maslennikova</h2>
                 <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">PR director</p>
 
                 <p class="wow animated fadeIn" data-wow-delay=="0.7s">
@@ -753,6 +753,8 @@ $params = [
         <section class="row">
             <div class="col-xs-12">
                 <div id="backedByLinks" class="owl-carousel owl-theme">
+                    <a href="http://www.herocity.com/" target="_blank" class="item"><img
+                                src="assets/img/backed-by/herocity.png" class="wow animated zoomIn"></a>
                     <a href="https://www.draperuniversity.com/" target="_blank" class="item"><img
                                 src="assets/img/backed-by/drapper-university.png" class="wow animated zoomIn"></a>
                     <a href="https://www.startupschool.org/" target="_blank" class="item"><img
