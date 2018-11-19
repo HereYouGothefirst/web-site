@@ -1270,10 +1270,10 @@ a.banner-tesla:hover {
 }
 
 .mobile-prototype__frame {
-    height: 120%;
-    top: -10.5%;
+    height: 115%;
+    top: -4.5%;
     position: relative;
-    background: url(/assets/img/nexus-frame.png) no-repeat center;
+    background: url(/assets/img/iphone-x-frame.png) no-repeat center;
     background-size: contain;
 }
 .mobile-prototype__image {

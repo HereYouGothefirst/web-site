@@ -38,7 +38,7 @@ $params = [
     <div class="mobile-prototype__frame-container ">
 
         <div class="mobile-prototype__image">
-            <!--<div class="mobile-prototype__frame"></div>-->
+            <div class="mobile-prototype__frame"></div>
         </div>
         <div class="mobile-prototype__description"></div>
     </div>

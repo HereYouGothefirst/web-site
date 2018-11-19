@@ -22,11 +22,10 @@ jQuery(document).ready(function ($) {
     var counter = -1;
     var path = '/assets/img/mobile/';
     var files = [
-        '1.png',
-        '2.png',
-        '3.png',
-        '4.png',
-        '5.png'
+        '1.jpg',
+        '2.jpg',
+        '3.jpg',
+        '4.jpg'
     ];
 
     var images = [];
