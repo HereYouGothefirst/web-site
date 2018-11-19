@@ -9,25 +9,80 @@ $params = [
 
 <?php require_once('inc/header.php') ?>
 
-<section id="idea" class="tesla-block tesla-block--idea">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-10 col-md-offset-1">
-                <div class="title-box" style="color:#000;">
-                    <h1 class="block-title wow animated rollIn">
-                        <span class="bb-top-left" style="border-color: #000; "></span>
-                        <span class="bb-bottom-left" style="border-color: #000; "></span>
-                        Future of Transportation Startup in Silicon Valley
-                        <span class="bb-top-right" style="border-color: #000; "></span>
-                        <span class="bb-bottom-right" style="border-color: #000; "></span>
-                    </h1>
-                </div>
 
-                <p class="heading-description text-center">Buy, ride and earn with best car autopilot available
-                    today!</p>
+<link rel='stylesheet' href='/assets/lib/unitegallery/css/unite-gallery.css' type='text/css'/>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $("#gallery").unitegallery({
+            gallery_theme: "compact",
+            slider_enable_text_panel: true,
+            slider_scale_mode: "fit",
+            gallery_width: '100%',
+            strip_thumbs_align: 'center'
+        });
+    });
+
+</script>
+
+<section class="tesla-block tesla-block--main">
+
+    <div class="container container--top-layer">
+        <div class="row row-v-centered">
+            <div class="col-md-12">
+                <div class="headings text-center">
+                    <h1 class="wow animated fadeInDown">
+                        Future of Transportation Startup in Silicon Valley
+                    </h1>
+                    <p>Buy, ride and earn with best car autopilot available today </p>
+
+                    <div id="gallery" style="margin:0px auto;display:none;">
+
+                        <img alt="Crowdfunding Video"
+                             data-type="youtube"
+                             data-videoid="bm1KSj1YWsg"
+                             data-description="We just going to crowdsource $2500 to make first down payment - it is not much but enough to launch our service.">
+
+                        <img alt="Prototype with DeepRacing"
+                             data-type="youtube"
+                             data-videoid="jwDLUWe9vOk"
+                             data-description="We connected an open protocol for self-driving cars Donkey.Car with blockchain platform to test sharing ownership of $200 RC model car between 5 contributors.">
+
+                        <img alt=""
+                             src="/assets/img/crowdfunding/gallery/1.webp"
+                             data-image="/assets/img/crowdfunding/gallery/1.webp"
+                             data-description="We made prototype with small robotic RC car and smart-contract on blockchain technology."
+                        >
+
+                        <img alt=""
+                             src="/assets/img/crowdfunding/gallery/2.webp"
+                             data-image="/assets/img/crowdfunding/gallery/2.webp"
+                             data-description="Konstantin(CEO) and Geoff Ralston(Partner at YCombinator)."
+                        >
+
+                        <img alt=""
+                             src="/assets/img/crowdfunding/gallery/3.webp"
+                             data-image="/assets/img/crowdfunding/gallery/3.webp"
+                             data-description="Mobile app connected with smart contract will show all transactions and ownership percentage."
+                        >
+
+                        <img alt=""
+                             src="/assets/img/crowdfunding/gallery/4.webp"
+                             data-image="/assets/img/crowdfunding/gallery/4.webp"
+                             data-description="Sharing economy will transform transport and it will make world safer, cheaper and eco-friendly."
+                        >
+                    </div>
+                </div>
             </div>
         </div>
+    </div>
+</section>
 
+
+<section id="idea" class="tesla-block tesla-block--idea">
+    <div class="container">
         <div class="row">
             <div class="col-md-3 col-md-offset-1">
                 <img class="default-image" src="/assets/img/crowdfunding/tesla-overview.webp">
@@ -166,8 +221,10 @@ $params = [
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <p class="idea-text">
-                    Our first goal for this campaign is to collect $2500 for down payment for Tesla. All money that we will collect over $2500 will be spent for the second payment for the Tesla car.
-                    We will keep you updated about the campaign and results that we achieve after the campaign. Stay within the community.</p>
+                    Our first goal for this campaign is to collect $2500 for down payment for Tesla. All money that we
+                    will collect over $2500 will be spent for the second payment for the Tesla car.
+                    We will keep you updated about the campaign and results that we achieve after the campaign. Stay
+                    within the community.</p>
             </div>
         </div>
 </section>
@@ -184,7 +241,8 @@ $params = [
 
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <p class="idea-text">Thank you for your interest in our campaign, we will appreciate if you tell your friends about us!<br/><br/>
+                <p class="idea-text">Thank you for your interest in our campaign, we will appreciate if you tell your
+                    friends about us!<br/><br/>
                     You can use Indiegogo buttons to share the campaign in social media.</p>
             </div>
         </div>
@@ -208,7 +266,11 @@ $params = [
                     When self-driving cars will be on the roads?
                 </a>
                 <div class="faq-answer collapse" id="q1">
-                    They already are. Tens of companies got accreditation to test self-driving cars on the roads in California. Cruise plans to launch self-driving cars into commercial use in 2019 after 3 billion-dollars investment from Softbank and General Motors. Waymo plans to buy up to 62 000 self-driving cars from Chrysler this year. So the market is hot and huge companies compete to be the leader on the trillion-dollars market.
+                    They already are. Tens of companies got accreditation to test self-driving cars on the roads in
+                    California. Cruise plans to launch self-driving cars into commercial use in 2019 after 3
+                    billion-dollars investment from Softbank and General Motors. Waymo plans to buy up to 62 000
+                    self-driving cars from Chrysler this year. So the market is hot and huge companies compete to be the
+                    leader on the trillion-dollars market.
                 </div>
             </div>
 
@@ -226,7 +288,9 @@ $params = [
                     What is the price of car you going to buy?
                 </a>
                 <div class="faq-answer collapse" id="q3">
-                    We going to buy Tesla with next parameters: Model 3 Mid Range Rear-Wheel Drive Red Multi-Coat Paint 19’’ Sport Wheels All Black Premium Interior Enhanced Autopilot The price is $55,000 + commissions of Indiegogo and it's partners $4,565 the amount we collect in total will be $59,565.
+                    We going to buy Tesla with next parameters: Model 3 Mid Range Rear-Wheel Drive Red Multi-Coat Paint
+                    19’’ Sport Wheels All Black Premium Interior Enhanced Autopilot The price is $55,000 + commissions
+                    of Indiegogo and it's partners $4,565 the amount we collect in total will be $59,565.
                 </div>
             </div>
 
