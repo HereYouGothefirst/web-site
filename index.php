@@ -81,7 +81,7 @@ $params = [
             <div class="col-md-7">
                 <div class="headings">
                     <h1 class="wow animated fadeInDown">
-                        MAKING TRANSPORTATION AFFORDABLE FOR EVERYONE
+                        SHARING ECONOMY FOR SELF-DRIVING CARS
                     </h1>
                     <p class="wow animated fadeInLeft">
                         We split ownership of self-driving cars among users of our service. So you can buy part of
@@ -117,7 +117,7 @@ $params = [
             </div>
         </section>
 
-        <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/jJ6W9mQxxUE"
+        <iframe width="660" height="415" class="default-video" src="https://www.youtube.com/embed/VJrRihjO8pE"
                 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
     </section>
@@ -393,19 +393,19 @@ $params = [
             </div>
 
             <div class="team-member team-member--adviser wow animated fadeIn" data-wow-delay=="0.3s">
-                <div style="background-image: url(assets/img/team/advisers/3.jpg?v=1)" class="team-pic"></div>
+                <div style="background-image: url(assets/img/team/advisers/6.jpg)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">
-                    Amiyata Kalia
+                    Ramesh Manian
                 </h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Senior Manager at Adobe</p>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Director of Engineering Fishbowl Inc</p>
             </div>
 
             <div class="team-member team-member--adviser wow animated fadeIn" data-wow-delay=="0.3s">
-                <div style="background-image: url(assets/img/team/advisers/4.jpg?v=1)" class="team-pic"></div>
+                <div style="background-image: url(assets/img/team/advisers/5.jpg?v=1)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">
-                    Alexander Chaychuk
+                    Anastasia Bawari
                 </h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">CTO at Shoppilot</p>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s"></p>
             </div>
         </section>
     </section>
