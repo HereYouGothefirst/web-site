@@ -29,9 +29,9 @@ $params = [
         <li><a href="#faq" class="faq">faq</a></li>
     </ul>
 </nav>
-<!--<a href="/tesla-prototype.php" class="banner-tesla">
-    Prototype with Tesla
-</a>-->
+<a href="https://igg.me/at/hereyougo" class="banner-tesla" target="_blank">
+    Become the owner of Tesla Model 3
+</a>
 <!-- ****************************** Header ************************** -->
 
 <div class="mobile-prototype">
@@ -405,7 +405,7 @@ $params = [
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">
                     Anastasia Bawari
                 </h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s"></p>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Director of Enrollment Hult International Business School</p>
             </div>
         </section>
     </section>
