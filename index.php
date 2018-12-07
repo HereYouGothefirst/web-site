@@ -30,7 +30,7 @@ $params = [
     </ul>
 </nav>
 <a href="https://igg.me/at/hereyougo" class="banner-tesla" target="_blank">
-    Become the owner of Tesla Model 3
+    Crowdfunding campaign: Become the owner of Tesla Model 3
 </a>
 <!-- ****************************** Header ************************** -->
 
