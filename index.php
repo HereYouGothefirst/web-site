@@ -111,7 +111,7 @@ $params = [
             <div class="col-md-offset-1 col-md-4 hidden-xs hidden-sm">
                 <div class="hand-container">
                     <img class="iphone-hand img_res wow animated bounceInUp" data-wow-duration="1.2s"
-                         src="assets/img/iphone_hand.png"></img>
+                         src="assets/img/iphone_hand.png?v=1"></img>
                     <div class="clearfix"></div>
                 </div>
             </div>
@@ -480,7 +480,7 @@ $params = [
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                 <div style="background-image: url(assets/img/team/10.jpg)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Jenny Maslennikova</h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">PR director</p>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">COO</p>
 
                 <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                     Draper University, Omsk State University
@@ -802,7 +802,7 @@ $params = [
                 <br/>
                 <h2>Second prototype</h2>
                 <p class="default-text">
-                    To create a second prototype close to reality we will buy Tesla, using crowdfunding with crypto.
+                    To create a second prototype we will buy Tesla, using crowdfunding campaign on Indiegogo.
                     We will split Tesla ownership proportionally to contribution, using smart contract.
                     We will split profit from ride sharing partner between contributors.
                 </p>
