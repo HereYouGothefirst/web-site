@@ -460,7 +460,7 @@ $params = [
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                 <div style="background-image: url(assets/img/team/5.jpg)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Alex Winter</h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Team Lead</p>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">CTO</p>
 
                 <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                     South Ural State University
@@ -519,7 +519,7 @@ $params = [
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
                 <div style="background-image: url(assets/img/team/8.jpg)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Carlos Uranga</h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">CTO</p>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Advisor</p>
 
                 <p class="wow animated fadeIn" data-wow-delay=="0.7s">
                     University of California San Diego, Grenoble Institute of Technology
