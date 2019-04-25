@@ -697,7 +697,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 
 #footer {
     background: #375a64;
-    padding: 20px 0px 22px 0px;
+    padding: 20px 0px 70px 0px;
 }
 
 .footer-logo {
@@ -1073,6 +1073,7 @@ a.banner-tesla:hover {
     margin-bottom: 30px;
     margin-top: 0;
     padding-right: 36px;
+    line-height: 1.75em;
 }
 
 .image-label {
@@ -1336,4 +1337,45 @@ section#impact {
     font-weight: 500;
     text-transform: unset;
     padding: 0;
+}
+
+.crowd-description {
+    color: white;
+}
+
+.crowd-description h1{
+    margin: 0;
+    font-size: 30px;
+}
+
+.crowd-description p{
+    margin-top: 24px;
+    font-size: 22px;
+}
+
+.crowd-block .contribution-progress {
+    margin: 40px 0;
+}
+
+.crowd-buttons {
+    margin-top: 30px;
+}
+
+.back-it-button {
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 20px;
+    border-radius: 0;
+}
+
+.social-share-buttons {
+    margin-top: 20px;
+}
+
+.block-title--centered {
+    text-align: center;
+}
+
+p.default-text {
+    line-height: 1.75em;
 }
