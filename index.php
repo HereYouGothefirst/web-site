@@ -753,6 +753,8 @@ $params = [
         <section class="row">
             <div class="col-xs-12">
                 <div id="backedByLinks" class="owl-carousel owl-theme">
+                    <a href="https://www.ieee.org/" target="_blank" class="item"><img
+                                src="assets/img/backed-by/ieee.gif" class="wow animated zoomIn"></a>
                     <a href="http://sae.org" target="_blank" class="item"><img
                                 src="assets/img/backed-by/sae.png" class="wow animated zoomIn"></a>
                     <a href="https://www.startupgrind.com/" target="_blank" class="item"><img
@@ -1098,7 +1100,7 @@ $params = [
                 </ul>
             </div>
             <div class="col-sm-6">
-                <p class="copyright text-right">HereYouGo 2017-2018</p>
+                <p class="copyright text-right">HereYouGo 2017-<?=date( 'Y' )?></p>
             </div>
         </section>
     </section>
