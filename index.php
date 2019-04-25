@@ -280,7 +280,7 @@ $params = [
             </div>
         </section>
 
-        <img src="/assets/img/roadmap.png?v=1.3" class="default-image"/>
+        <img src="/assets/img/roadmap.png?v=1.4" class="default-image"/>
 
     </section>
 </section>
