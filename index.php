@@ -111,7 +111,7 @@ $params = [
             <div class="col-md-offset-1 col-md-4 hidden-xs hidden-sm">
                 <div class="hand-container">
                     <img class="iphone-hand img_res wow animated bounceInUp" data-wow-duration="1.2s"
-                         src="assets/img/iphone_hand.png?v=1"></img>
+                         src="assets/img/iphone_hand.png?v=1.1"></img>
                     <div class="clearfix"></div>
                 </div>
             </div>
