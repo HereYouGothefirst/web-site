@@ -1132,6 +1132,21 @@ a.banner-tesla:hover {
     background-size: 88px;
 }
 
+.back-it-form {
+    position: relative;
+}
+.back-it-form--loading:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 8999;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    background: #fff url('../img/preloader.webp') no-repeat center center;
+    background-size: 88px;
+}
 .subscribe-form {
     position: relative;
 }

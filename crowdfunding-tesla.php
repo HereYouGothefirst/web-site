@@ -3,7 +3,7 @@ $params = [
     'title' => 'Own a Fraction of Tesla Model 3',
     'url' => 'https://hereyougo.io/crowdfunding-tesla.php',
     'description' => 'Contribute just $10 to secure fractional ownership of a ride-shared Tesla Model 3',
-    'socialImage' => 'https://hereyougo.io/assets/img/tesla-social.jpg'
+    'socialImage' => 'https://hereyougo.io/assets/img/crowd-social.jpg'
 ];
 ?>
 
@@ -97,11 +97,27 @@ $params = [
                 </div>
 
                 <div class="crowd-buttons">
-                    <a href="#subscribe" class="btn btn-primary btn-lg back-it-button page-link">Back it</a>
+                    <div class="back-it-form">
+                        <form id="backItForm">
+                            <div class="input-group input-group-lg">
+                                <input type="text" class="form-control crowd-email-input" placeholder="E-mail">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-primary btn-lg back-it-button" type="submit">Back it</button>
+                                </span>
+
+                            </div><!-- /input-group -->
+                        </form>
+                        <div class="message-warning"></div>
+
+                    </div>
+
+                    <div class="message-success">Thank you for your request, we will respond as soon as possible.
+                    </div>
+
 
                     <div class="social-share-buttons">
                         <div class="ya-share2"
-                             data-services="facebook,twitter,vkontakte,linkedin,telegram"
+                             data-services="facebook,twitter,vkontakte,linkedin,tumblr,telegram"
                              data-lang="en"
                         ></div>
                     </div>

@@ -29,7 +29,7 @@ $params = [
         <li><a href="#faq" class="faq">faq</a></li>
     </ul>
 </nav>
-<a href="https://igg.me/at/hereyougo" class="banner-tesla" target="_blank">
+<a href="/crowdfunding-tesla.php" class="banner-tesla" target="_blank">
     Crowdfunding campaign: Become the owner of Tesla Model 3
 </a>
 <!-- ****************************** Header ************************** -->
