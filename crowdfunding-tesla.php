@@ -43,38 +43,38 @@ $params = [
                              data-description="Become the owner of Tesla Model 3 with just $10">
 
                         <img alt=""
-                             src="/assets/img/crowdfunding/gallery/1.webp"
-                             data-image="/assets/img/crowdfunding/gallery/1.webp"
+                             src="/assets/img/crowdfunding/gallery/1.jpg"
+                             data-image="/assets/img/crowdfunding/gallery/1.jpg"
                              data-description="We made prototype with small robotic RC car and smart-contract on blockchain technology."
                         >
 
                         <img alt=""
-                             src="/assets/img/crowdfunding/gallery/5.webp"
-                             data-image="/assets/img/crowdfunding/gallery/5.webp"
+                             src="/assets/img/crowdfunding/gallery/5.jpg"
+                             data-image="/assets/img/crowdfunding/gallery/5.jpg"
                              data-description="The Future of Automotive: Pitch Night with International Auto Industry Experts in San Francisco."
                         >
 
                         <img alt=""
-                             src="/assets/img/crowdfunding/gallery/6.webp"
-                             data-image="/assets/img/crowdfunding/gallery/6.webp"
+                             src="/assets/img/crowdfunding/gallery/6.jpg"
+                             data-image="/assets/img/crowdfunding/gallery/6.jpg"
                              data-description="We started our company with research at Draper University in Silicon Valley."
                         >
 
                         <img alt=""
-                             src="/assets/img/crowdfunding/gallery/7.webp"
-                             data-image="/assets/img/crowdfunding/gallery/7.webp"
+                             src="/assets/img/crowdfunding/gallery/7.jpg"
+                             data-image="/assets/img/crowdfunding/gallery/7.jpg"
                              data-description="Contribute and enjoy the ownership of the Tesla Model 3"
                         >
 
                         <img alt=""
-                             src="/assets/img/crowdfunding/gallery/8.webp"
-                             data-image="/assets/img/crowdfunding/gallery/8.webp"
+                             src="/assets/img/crowdfunding/gallery/8.jpg"
+                             data-image="/assets/img/crowdfunding/gallery/8.jpg"
                              data-description="Testing Tesla Model 3 autopilot in Silicon Valley."
                         >
 
                         <img alt=""
-                             src="/assets/img/crowdfunding/gallery/9.webp"
-                             data-image="/assets/img/crowdfunding/gallery/9.webp"
+                             src="/assets/img/crowdfunding/gallery/9.jpg"
+                             data-image="/assets/img/crowdfunding/gallery/9.jpg"
                              data-description="We were part of Y Combinator Startup School."
                         >
                     </div>
@@ -87,13 +87,13 @@ $params = [
                 <p>Contribute just $10 to secure fractional ownership of a ride-shared Tesla Model 3</p>
 
                 <div class="contribution-progress">
-                    <div class="contribution-progress__heading">$10,340 USD raised by 34 backers</div>
+                    <div class="contribution-progress__heading">$20,101 USD raised by 34 backers</div>
 
                     <div class="contribution-progress__progress-container">
-                        <div class="contribution-progress__line" style="width: 20%"></div>
+                        <div class="contribution-progress__line" style="width: 30%"></div>
                     </div>
 
-                    <div class="contribution-progress__goal">$55,798</div>
+                    <div class="contribution-progress__goal">$60,000</div>
                 </div>
 
                 <div class="crowd-buttons">
@@ -134,7 +134,7 @@ $params = [
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-md-offset-1">
-                <img class="default-image" src="/assets/img/crowdfunding/tesla-overview.webp">
+                <img class="default-image" src="/assets/img/crowdfunding/tesla-overview.jpg">
                 <!--                <p class="image-label">CEO of HereYouGo Konstantin in Tesla Palo Alto Branch.</p>-->
             </div>
             <div class="col-md-7">
