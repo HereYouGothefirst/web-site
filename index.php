@@ -81,20 +81,15 @@ $params = [
             <div class="col-md-7">
                 <div class="headings">
                     <h1 class="wow animated fadeInDown">
-                        SHARING ECONOMY FOR SELF-DRIVING CARS
+                        SELF-DRIVING FOR EVERYONE
                     </h1>
                     <p class="wow animated fadeInLeft">
-                        We split ownership of self-driving cars among users of our service. So you can buy part of
-                        vehicle and use autonomous cars for your transportation needs.
+                        Self-driving cars will be expensive,  will require time to maintain, register and manage documents and finance connected to the unmanned vehicle. Most people use their car only 4% of the time.  They simply don't need access to a car all day and night.
                     </p>
                     <p class="wow animated fadeInLeft">
-                        We call our service fleet management system because we do everything for your car from documents
-                        preparation to car washing.
+                        Our fractional ownership model will make it easier to buy and get profit for self-driving car owners by renting those cars to public transportation companies.
                     </p>
 
-                    <p class="wow animated fadeInLeft text-bold">
-                        Our mission is to make self-driving technology happen in every day life!
-                    </p>
                     <div class="row">
                         <div class="col-xs-8 col-sm-8 col-md-8">
                             <div>
@@ -280,7 +275,7 @@ $params = [
             </div>
         </section>
 
-        <img src="/assets/img/roadmap.png?v=1.4" class="default-image"/>
+        <img src="/assets/img/roadmap.png?v=1.5" class="default-image"/>
 
     </section>
 </section>
@@ -384,12 +379,11 @@ $params = [
             </div>
 
             <div class="team-member team-member--adviser wow animated fadeIn" data-wow-delay=="0.3s">
-                <div style="background-image: url(assets/img/team/advisers/2.jpg)" class="team-pic"></div>
+                <div style="background-image: url(assets/img/team/8.jpg)" class="team-pic"></div>
                 <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">
-                    Chris Novak
+                    Carlos Uranga
                 </h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">President of The Electric Vehicle
-                    Entrepreneurs of Silicon Valley (EVE)</p>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">DeepRacing Founder, CEO</p>
             </div>
 
             <div class="team-member team-member--adviser wow animated fadeIn" data-wow-delay=="0.3s">
@@ -517,26 +511,18 @@ $params = [
             </div>-->
 
             <div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-                <div style="background-image: url(assets/img/team/8.jpg)" class="team-pic"></div>
-                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Carlos Uranga</h2>
-                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">Advisor</p>
+                <div style="background-image: url(assets/img/team/11.jpg)" class="team-pic"></div>
+                <h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Sergey Malyarov</h2>
+                <p class="wow animated fadeIn team-position" data-wow-delay=="0.7s">CMO</p>
 
                 <p class="wow animated fadeIn" data-wow-delay=="0.7s">
-                    University of California San Diego, Grenoble Institute of Technology
-                    <br/>
-                    ex. Singularity University, MakerDojo
                 </p>
 
 
                 <ul class="team-social">
                     <li class="wow animated fadeInLeft linkedin">
-                        <a href="https://www.linkedin.com/in/carlosuranga/" target="_blank">
+                        <a href="https://www.linkedin.com/in/sergey-malyarov-44809618a/" target="_blank">
                             <i class="ion-social-linkedin"></i>
-                        </a>
-                    </li>
-                    <li class="wow animated fadeInLeft linkedin">
-                        <a href="https://www.facebook.com/cauranga" target="_blank">
-                            <i class="ion-social-facebook"></i>
                         </a>
                     </li>
                 </ul>
