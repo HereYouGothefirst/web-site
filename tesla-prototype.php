@@ -1,10 +1,3 @@
-
-<?php
-
-header('Location: /crowdfunding-tesla.php');
-?>
-
-<? /*
 <?php
     $params = [
         'title' => 'HereYouGo - Prototype with Tesla',
@@ -370,4 +363,3 @@ header('Location: /crowdfunding-tesla.php');
 
 
 <?php require_once('inc/footer.php') ?>
- */

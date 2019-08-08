@@ -1071,7 +1071,7 @@ $params = [
                     <li class="wow animated fadeInLeft"><a href="https://www.facebook.com/hereyougothefirst"
                                                            target="_blank"><i
                                     class="ion-social-facebook"></i></a></li>
-                    <li class="wow animated fadeInLeft"><a href="https://twitter.com/HereYouGofirst" target="_blank"><i
+                    <li class="wow animated fadeInLeft"><a href="https://twitter.com/AutoGoTech" target="_blank"><i
                                     class="ion-social-twitter"></i></a></li>
                     <li class="wow animated fadeInRight"><a
                                 href="https://www.youtube.com/channel/UCEcdcgdXCFRGuwWRh94lzfQ" target="_blank"><i
