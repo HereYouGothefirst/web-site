@@ -1086,7 +1086,7 @@ $params = [
                 </ul>
             </div>
             <div class="col-sm-6">
-                <p class="copyright text-right">HereYouGo 2017-<?=date( 'Y' )?></p>
+                <p class="copyright text-right">HereYouGo 2018-<?=date( 'Y' )?></p>
             </div>
         </section>
     </section>
