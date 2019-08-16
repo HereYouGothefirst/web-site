@@ -552,6 +552,11 @@ a:hover {
     color: #fff;
 }
 
+.btn-custom:hover {
+    color: white;
+    opacity: .9;
+}
+
 .subscribe-wrap .form-group {
     margin-right: -16px;
 }
