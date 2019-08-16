@@ -153,6 +153,18 @@ $params = [
             </div>
         </section>
     </section>
+        <section class="container">
+            <section class="row">
+                <div class="col-sm-10 col-sm-offset-1 text-center">
+                    <p class="susbcribe-text">
+                        <strong>Or</strong>
+                    </p>
+                    <a href="https://app.hereyougo.io" class="btn btn-custom" style="width: auto">Join us</a>
+                </div>
+            </section>
+        </section>
+
+
 </section>
 
 
