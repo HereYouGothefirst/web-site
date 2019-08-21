@@ -120,7 +120,7 @@ $params = [
 
 
 <section id="subscribe">
-    <section class="container">
+    <section class="container" style="display:none">
         <section class="row">
             <div class="col-sm-10 col-sm-offset-1">
                 <p class="susbcribe-text">
@@ -128,7 +128,7 @@ $params = [
             </div>
         </section>
     </section>
-    <section class="container subscribe-wrap">
+    <section class="container subscribe-wrap" style="display:none">
         <section class="row">
             <div class="col-sm-12">
                 <form role="form" class="subscribe-form" id="subscribeForm">
@@ -157,9 +157,9 @@ $params = [
             <section class="row">
                 <div class="col-sm-10 col-sm-offset-1 text-center">
                     <p class="susbcribe-text">
-                        <strong>Or</strong>
+                        <strong>If you would like to become part of our movement:</strong>
                     </p>
-                    <a href="https://app.hereyougo.io" class="btn btn-custom" style="width: auto">Join us</a>
+                    <a href="https://app.hereyougo.io" class="btn btn-custom" style="width: auto">Join us!</a>
                 </div>
             </section>
         </section>
