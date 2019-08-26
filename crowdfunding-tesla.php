@@ -98,15 +98,7 @@ $params = [
 
                 <div class="crowd-buttons">
                     <div class="back-it-form">
-                        <form id="backItForm">
-                            <div class="input-group input-group-lg">
-                                <input type="text" class="form-control crowd-email-input" placeholder="E-mail">
-                                <span class="input-group-btn">
-                                    <button class="btn btn-primary btn-lg back-it-button" type="submit">Back it</button>
-                                </span>
-
-                            </div><!-- /input-group -->
-                        </form>
+                        <a href='http://app.hereyougo.io' class="btn btn-primary btn-lg back-it-button" type="submit" style="width: 300px">Back it</a>
                         <div class="message-warning"></div>
 
                     </div>
